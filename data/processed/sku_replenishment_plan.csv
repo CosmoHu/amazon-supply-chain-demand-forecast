@@ -1,0 +1,3601 @@
+﻿Category,ProductID,Week,SKU_Order
+Books,P00001,1,15.9
+Books,P00001,2,0.0
+Books,P00001,3,0.0
+Books,P00001,4,0.0
+Books,P00001,5,16.1
+Books,P00001,6,0.0
+Books,P00001,7,0.0
+Books,P00001,8,0.0
+Books,P00001,9,15.3
+Books,P00001,10,0.0
+Books,P00001,11,0.0
+Books,P00001,12,0.0
+Books,P00002,1,13.4
+Books,P00002,2,0.0
+Books,P00002,3,0.0
+Books,P00002,4,0.0
+Books,P00002,5,13.6
+Books,P00002,6,0.0
+Books,P00002,7,0.0
+Books,P00002,8,0.0
+Books,P00002,9,12.9
+Books,P00002,10,0.0
+Books,P00002,11,0.0
+Books,P00002,12,0.0
+Books,P00003,1,17.7
+Books,P00003,2,0.0
+Books,P00003,3,0.0
+Books,P00003,4,0.0
+Books,P00003,5,17.9
+Books,P00003,6,0.0
+Books,P00003,7,0.0
+Books,P00003,8,0.0
+Books,P00003,9,17.1
+Books,P00003,10,0.0
+Books,P00003,11,0.0
+Books,P00003,12,0.0
+Books,P00004,1,14.7
+Books,P00004,2,0.0
+Books,P00004,3,0.0
+Books,P00004,4,0.0
+Books,P00004,5,14.9
+Books,P00004,6,0.0
+Books,P00004,7,0.0
+Books,P00004,8,0.0
+Books,P00004,9,14.2
+Books,P00004,10,0.0
+Books,P00004,11,0.0
+Books,P00004,12,0.0
+Books,P00005,1,14.2
+Books,P00005,2,0.0
+Books,P00005,3,0.0
+Books,P00005,4,0.0
+Books,P00005,5,14.4
+Books,P00005,6,0.0
+Books,P00005,7,0.0
+Books,P00005,8,0.0
+Books,P00005,9,13.7
+Books,P00005,10,0.0
+Books,P00005,11,0.0
+Books,P00005,12,0.0
+Books,P00006,1,14.2
+Books,P00006,2,0.0
+Books,P00006,3,0.0
+Books,P00006,4,0.0
+Books,P00006,5,14.4
+Books,P00006,6,0.0
+Books,P00006,7,0.0
+Books,P00006,8,0.0
+Books,P00006,9,13.7
+Books,P00006,10,0.0
+Books,P00006,11,0.0
+Books,P00006,12,0.0
+Books,P00007,1,14.0
+Books,P00007,2,0.0
+Books,P00007,3,0.0
+Books,P00007,4,0.0
+Books,P00007,5,14.2
+Books,P00007,6,0.0
+Books,P00007,7,0.0
+Books,P00007,8,0.0
+Books,P00007,9,13.6
+Books,P00007,10,0.0
+Books,P00007,11,0.0
+Books,P00007,12,0.0
+Books,P00008,1,15.1
+Books,P00008,2,0.0
+Books,P00008,3,0.0
+Books,P00008,4,0.0
+Books,P00008,5,15.4
+Books,P00008,6,0.0
+Books,P00008,7,0.0
+Books,P00008,8,0.0
+Books,P00008,9,14.6
+Books,P00008,10,0.0
+Books,P00008,11,0.0
+Books,P00008,12,0.0
+Books,P00009,1,12.5
+Books,P00009,2,0.0
+Books,P00009,3,0.0
+Books,P00009,4,0.0
+Books,P00009,5,12.7
+Books,P00009,6,0.0
+Books,P00009,7,0.0
+Books,P00009,8,0.0
+Books,P00009,9,12.1
+Books,P00009,10,0.0
+Books,P00009,11,0.0
+Books,P00009,12,0.0
+Books,P00010,1,16.8
+Books,P00010,2,0.0
+Books,P00010,3,0.0
+Books,P00010,4,0.0
+Books,P00010,5,17.0
+Books,P00010,6,0.0
+Books,P00010,7,0.0
+Books,P00010,8,0.0
+Books,P00010,9,16.2
+Books,P00010,10,0.0
+Books,P00010,11,0.0
+Books,P00010,12,0.0
+Books,P00011,1,14.5
+Books,P00011,2,0.0
+Books,P00011,3,0.0
+Books,P00011,4,0.0
+Books,P00011,5,14.8
+Books,P00011,6,0.0
+Books,P00011,7,0.0
+Books,P00011,8,0.0
+Books,P00011,9,14.1
+Books,P00011,10,0.0
+Books,P00011,11,0.0
+Books,P00011,12,0.0
+Books,P00012,1,17.1
+Books,P00012,2,0.0
+Books,P00012,3,0.0
+Books,P00012,4,0.0
+Books,P00012,5,17.4
+Books,P00012,6,0.0
+Books,P00012,7,0.0
+Books,P00012,8,0.0
+Books,P00012,9,16.5
+Books,P00012,10,0.0
+Books,P00012,11,0.0
+Books,P00012,12,0.0
+Books,P00013,1,14.9
+Books,P00013,2,0.0
+Books,P00013,3,0.0
+Books,P00013,4,0.0
+Books,P00013,5,15.2
+Books,P00013,6,0.0
+Books,P00013,7,0.0
+Books,P00013,8,0.0
+Books,P00013,9,14.4
+Books,P00013,10,0.0
+Books,P00013,11,0.0
+Books,P00013,12,0.0
+Books,P00014,1,17.0
+Books,P00014,2,0.0
+Books,P00014,3,0.0
+Books,P00014,4,0.0
+Books,P00014,5,17.2
+Books,P00014,6,0.0
+Books,P00014,7,0.0
+Books,P00014,8,0.0
+Books,P00014,9,16.4
+Books,P00014,10,0.0
+Books,P00014,11,0.0
+Books,P00014,12,0.0
+Books,P00015,1,13.6
+Books,P00015,2,0.0
+Books,P00015,3,0.0
+Books,P00015,4,0.0
+Books,P00015,5,13.8
+Books,P00015,6,0.0
+Books,P00015,7,0.0
+Books,P00015,8,0.0
+Books,P00015,9,13.1
+Books,P00015,10,0.0
+Books,P00015,11,0.0
+Books,P00015,12,0.0
+Books,P00016,1,13.0
+Books,P00016,2,0.0
+Books,P00016,3,0.0
+Books,P00016,4,0.0
+Books,P00016,5,13.2
+Books,P00016,6,0.0
+Books,P00016,7,0.0
+Books,P00016,8,0.0
+Books,P00016,9,12.6
+Books,P00016,10,0.0
+Books,P00016,11,0.0
+Books,P00016,12,0.0
+Books,P00017,1,13.0
+Books,P00017,2,0.0
+Books,P00017,3,0.0
+Books,P00017,4,0.0
+Books,P00017,5,13.2
+Books,P00017,6,0.0
+Books,P00017,7,0.0
+Books,P00017,8,0.0
+Books,P00017,9,12.6
+Books,P00017,10,0.0
+Books,P00017,11,0.0
+Books,P00017,12,0.0
+Books,P00018,1,13.9
+Books,P00018,2,0.0
+Books,P00018,3,0.0
+Books,P00018,4,0.0
+Books,P00018,5,14.1
+Books,P00018,6,0.0
+Books,P00018,7,0.0
+Books,P00018,8,0.0
+Books,P00018,9,13.4
+Books,P00018,10,0.0
+Books,P00018,11,0.0
+Books,P00018,12,0.0
+Books,P00019,1,15.8
+Books,P00019,2,0.0
+Books,P00019,3,0.0
+Books,P00019,4,0.0
+Books,P00019,5,16.1
+Books,P00019,6,0.0
+Books,P00019,7,0.0
+Books,P00019,8,0.0
+Books,P00019,9,15.3
+Books,P00019,10,0.0
+Books,P00019,11,0.0
+Books,P00019,12,0.0
+Books,P00020,1,15.6
+Books,P00020,2,0.0
+Books,P00020,3,0.0
+Books,P00020,4,0.0
+Books,P00020,5,15.9
+Books,P00020,6,0.0
+Books,P00020,7,0.0
+Books,P00020,8,0.0
+Books,P00020,9,15.1
+Books,P00020,10,0.0
+Books,P00020,11,0.0
+Books,P00020,12,0.0
+Books,P00021,1,15.7
+Books,P00021,2,0.0
+Books,P00021,3,0.0
+Books,P00021,4,0.0
+Books,P00021,5,16.0
+Books,P00021,6,0.0
+Books,P00021,7,0.0
+Books,P00021,8,0.0
+Books,P00021,9,15.2
+Books,P00021,10,0.0
+Books,P00021,11,0.0
+Books,P00021,12,0.0
+Books,P00022,1,14.1
+Books,P00022,2,0.0
+Books,P00022,3,0.0
+Books,P00022,4,0.0
+Books,P00022,5,14.3
+Books,P00022,6,0.0
+Books,P00022,7,0.0
+Books,P00022,8,0.0
+Books,P00022,9,13.6
+Books,P00022,10,0.0
+Books,P00022,11,0.0
+Books,P00022,12,0.0
+Books,P00023,1,15.6
+Books,P00023,2,0.0
+Books,P00023,3,0.0
+Books,P00023,4,0.0
+Books,P00023,5,15.9
+Books,P00023,6,0.0
+Books,P00023,7,0.0
+Books,P00023,8,0.0
+Books,P00023,9,15.1
+Books,P00023,10,0.0
+Books,P00023,11,0.0
+Books,P00023,12,0.0
+Books,P00024,1,16.3
+Books,P00024,2,0.0
+Books,P00024,3,0.0
+Books,P00024,4,0.0
+Books,P00024,5,16.6
+Books,P00024,6,0.0
+Books,P00024,7,0.0
+Books,P00024,8,0.0
+Books,P00024,9,15.8
+Books,P00024,10,0.0
+Books,P00024,11,0.0
+Books,P00024,12,0.0
+Books,P00025,1,16.4
+Books,P00025,2,0.0
+Books,P00025,3,0.0
+Books,P00025,4,0.0
+Books,P00025,5,16.6
+Books,P00025,6,0.0
+Books,P00025,7,0.0
+Books,P00025,8,0.0
+Books,P00025,9,15.8
+Books,P00025,10,0.0
+Books,P00025,11,0.0
+Books,P00025,12,0.0
+Books,P00026,1,14.4
+Books,P00026,2,0.0
+Books,P00026,3,0.0
+Books,P00026,4,0.0
+Books,P00026,5,14.6
+Books,P00026,6,0.0
+Books,P00026,7,0.0
+Books,P00026,8,0.0
+Books,P00026,9,13.9
+Books,P00026,10,0.0
+Books,P00026,11,0.0
+Books,P00026,12,0.0
+Books,P00027,1,13.5
+Books,P00027,2,0.0
+Books,P00027,3,0.0
+Books,P00027,4,0.0
+Books,P00027,5,13.7
+Books,P00027,6,0.0
+Books,P00027,7,0.0
+Books,P00027,8,0.0
+Books,P00027,9,13.0
+Books,P00027,10,0.0
+Books,P00027,11,0.0
+Books,P00027,12,0.0
+Books,P00028,1,15.8
+Books,P00028,2,0.0
+Books,P00028,3,0.0
+Books,P00028,4,0.0
+Books,P00028,5,16.0
+Books,P00028,6,0.0
+Books,P00028,7,0.0
+Books,P00028,8,0.0
+Books,P00028,9,15.3
+Books,P00028,10,0.0
+Books,P00028,11,0.0
+Books,P00028,12,0.0
+Books,P00029,1,15.5
+Books,P00029,2,0.0
+Books,P00029,3,0.0
+Books,P00029,4,0.0
+Books,P00029,5,15.7
+Books,P00029,6,0.0
+Books,P00029,7,0.0
+Books,P00029,8,0.0
+Books,P00029,9,15.0
+Books,P00029,10,0.0
+Books,P00029,11,0.0
+Books,P00029,12,0.0
+Books,P00030,1,14.6
+Books,P00030,2,0.0
+Books,P00030,3,0.0
+Books,P00030,4,0.0
+Books,P00030,5,14.8
+Books,P00030,6,0.0
+Books,P00030,7,0.0
+Books,P00030,8,0.0
+Books,P00030,9,14.1
+Books,P00030,10,0.0
+Books,P00030,11,0.0
+Books,P00030,12,0.0
+Books,P00031,1,15.0
+Books,P00031,2,0.0
+Books,P00031,3,0.0
+Books,P00031,4,0.0
+Books,P00031,5,15.2
+Books,P00031,6,0.0
+Books,P00031,7,0.0
+Books,P00031,8,0.0
+Books,P00031,9,14.5
+Books,P00031,10,0.0
+Books,P00031,11,0.0
+Books,P00031,12,0.0
+Books,P00032,1,15.1
+Books,P00032,2,0.0
+Books,P00032,3,0.0
+Books,P00032,4,0.0
+Books,P00032,5,15.3
+Books,P00032,6,0.0
+Books,P00032,7,0.0
+Books,P00032,8,0.0
+Books,P00032,9,14.6
+Books,P00032,10,0.0
+Books,P00032,11,0.0
+Books,P00032,12,0.0
+Books,P00033,1,13.9
+Books,P00033,2,0.0
+Books,P00033,3,0.0
+Books,P00033,4,0.0
+Books,P00033,5,14.1
+Books,P00033,6,0.0
+Books,P00033,7,0.0
+Books,P00033,8,0.0
+Books,P00033,9,13.4
+Books,P00033,10,0.0
+Books,P00033,11,0.0
+Books,P00033,12,0.0
+Books,P00034,1,14.8
+Books,P00034,2,0.0
+Books,P00034,3,0.0
+Books,P00034,4,0.0
+Books,P00034,5,15.1
+Books,P00034,6,0.0
+Books,P00034,7,0.0
+Books,P00034,8,0.0
+Books,P00034,9,14.3
+Books,P00034,10,0.0
+Books,P00034,11,0.0
+Books,P00034,12,0.0
+Books,P00035,1,14.9
+Books,P00035,2,0.0
+Books,P00035,3,0.0
+Books,P00035,4,0.0
+Books,P00035,5,15.2
+Books,P00035,6,0.0
+Books,P00035,7,0.0
+Books,P00035,8,0.0
+Books,P00035,9,14.4
+Books,P00035,10,0.0
+Books,P00035,11,0.0
+Books,P00035,12,0.0
+Books,P00036,1,16.6
+Books,P00036,2,0.0
+Books,P00036,3,0.0
+Books,P00036,4,0.0
+Books,P00036,5,16.9
+Books,P00036,6,0.0
+Books,P00036,7,0.0
+Books,P00036,8,0.0
+Books,P00036,9,16.1
+Books,P00036,10,0.0
+Books,P00036,11,0.0
+Books,P00036,12,0.0
+Books,P00037,1,16.6
+Books,P00037,2,0.0
+Books,P00037,3,0.0
+Books,P00037,4,0.0
+Books,P00037,5,16.8
+Books,P00037,6,0.0
+Books,P00037,7,0.0
+Books,P00037,8,0.0
+Books,P00037,9,16.0
+Books,P00037,10,0.0
+Books,P00037,11,0.0
+Books,P00037,12,0.0
+Books,P00038,1,15.9
+Books,P00038,2,0.0
+Books,P00038,3,0.0
+Books,P00038,4,0.0
+Books,P00038,5,16.1
+Books,P00038,6,0.0
+Books,P00038,7,0.0
+Books,P00038,8,0.0
+Books,P00038,9,15.4
+Books,P00038,10,0.0
+Books,P00038,11,0.0
+Books,P00038,12,0.0
+Books,P00039,1,13.5
+Books,P00039,2,0.0
+Books,P00039,3,0.0
+Books,P00039,4,0.0
+Books,P00039,5,13.7
+Books,P00039,6,0.0
+Books,P00039,7,0.0
+Books,P00039,8,0.0
+Books,P00039,9,13.0
+Books,P00039,10,0.0
+Books,P00039,11,0.0
+Books,P00039,12,0.0
+Books,P00040,1,16.3
+Books,P00040,2,0.0
+Books,P00040,3,0.0
+Books,P00040,4,0.0
+Books,P00040,5,16.6
+Books,P00040,6,0.0
+Books,P00040,7,0.0
+Books,P00040,8,0.0
+Books,P00040,9,15.8
+Books,P00040,10,0.0
+Books,P00040,11,0.0
+Books,P00040,12,0.0
+Books,P00041,1,14.8
+Books,P00041,2,0.0
+Books,P00041,3,0.0
+Books,P00041,4,0.0
+Books,P00041,5,15.0
+Books,P00041,6,0.0
+Books,P00041,7,0.0
+Books,P00041,8,0.0
+Books,P00041,9,14.3
+Books,P00041,10,0.0
+Books,P00041,11,0.0
+Books,P00041,12,0.0
+Books,P00042,1,15.0
+Books,P00042,2,0.0
+Books,P00042,3,0.0
+Books,P00042,4,0.0
+Books,P00042,5,15.2
+Books,P00042,6,0.0
+Books,P00042,7,0.0
+Books,P00042,8,0.0
+Books,P00042,9,14.5
+Books,P00042,10,0.0
+Books,P00042,11,0.0
+Books,P00042,12,0.0
+Books,P00043,1,15.3
+Books,P00043,2,0.0
+Books,P00043,3,0.0
+Books,P00043,4,0.0
+Books,P00043,5,15.6
+Books,P00043,6,0.0
+Books,P00043,7,0.0
+Books,P00043,8,0.0
+Books,P00043,9,14.8
+Books,P00043,10,0.0
+Books,P00043,11,0.0
+Books,P00043,12,0.0
+Books,P00044,1,15.4
+Books,P00044,2,0.0
+Books,P00044,3,0.0
+Books,P00044,4,0.0
+Books,P00044,5,15.7
+Books,P00044,6,0.0
+Books,P00044,7,0.0
+Books,P00044,8,0.0
+Books,P00044,9,14.9
+Books,P00044,10,0.0
+Books,P00044,11,0.0
+Books,P00044,12,0.0
+Books,P00045,1,17.5
+Books,P00045,2,0.0
+Books,P00045,3,0.0
+Books,P00045,4,0.0
+Books,P00045,5,17.8
+Books,P00045,6,0.0
+Books,P00045,7,0.0
+Books,P00045,8,0.0
+Books,P00045,9,16.9
+Books,P00045,10,0.0
+Books,P00045,11,0.0
+Books,P00045,12,0.0
+Books,P00046,1,14.8
+Books,P00046,2,0.0
+Books,P00046,3,0.0
+Books,P00046,4,0.0
+Books,P00046,5,15.0
+Books,P00046,6,0.0
+Books,P00046,7,0.0
+Books,P00046,8,0.0
+Books,P00046,9,14.3
+Books,P00046,10,0.0
+Books,P00046,11,0.0
+Books,P00046,12,0.0
+Books,P00047,1,15.2
+Books,P00047,2,0.0
+Books,P00047,3,0.0
+Books,P00047,4,0.0
+Books,P00047,5,15.4
+Books,P00047,6,0.0
+Books,P00047,7,0.0
+Books,P00047,8,0.0
+Books,P00047,9,14.7
+Books,P00047,10,0.0
+Books,P00047,11,0.0
+Books,P00047,12,0.0
+Books,P00048,1,13.6
+Books,P00048,2,0.0
+Books,P00048,3,0.0
+Books,P00048,4,0.0
+Books,P00048,5,13.8
+Books,P00048,6,0.0
+Books,P00048,7,0.0
+Books,P00048,8,0.0
+Books,P00048,9,13.2
+Books,P00048,10,0.0
+Books,P00048,11,0.0
+Books,P00048,12,0.0
+Books,P00049,1,15.9
+Books,P00049,2,0.0
+Books,P00049,3,0.0
+Books,P00049,4,0.0
+Books,P00049,5,16.1
+Books,P00049,6,0.0
+Books,P00049,7,0.0
+Books,P00049,8,0.0
+Books,P00049,9,15.4
+Books,P00049,10,0.0
+Books,P00049,11,0.0
+Books,P00049,12,0.0
+Books,P00050,1,15.0
+Books,P00050,2,0.0
+Books,P00050,3,0.0
+Books,P00050,4,0.0
+Books,P00050,5,15.3
+Books,P00050,6,0.0
+Books,P00050,7,0.0
+Books,P00050,8,0.0
+Books,P00050,9,14.5
+Books,P00050,10,0.0
+Books,P00050,11,0.0
+Books,P00050,12,0.0
+Clothing,P00001,1,15.7
+Clothing,P00001,2,0.0
+Clothing,P00001,3,0.0
+Clothing,P00001,4,0.0
+Clothing,P00001,5,14.3
+Clothing,P00001,6,0.0
+Clothing,P00001,7,0.0
+Clothing,P00001,8,0.0
+Clothing,P00001,9,16.3
+Clothing,P00001,10,0.0
+Clothing,P00001,11,0.0
+Clothing,P00001,12,0.0
+Clothing,P00002,1,14.3
+Clothing,P00002,2,0.0
+Clothing,P00002,3,0.0
+Clothing,P00002,4,0.0
+Clothing,P00002,5,13.1
+Clothing,P00002,6,0.0
+Clothing,P00002,7,0.0
+Clothing,P00002,8,0.0
+Clothing,P00002,9,14.8
+Clothing,P00002,10,0.0
+Clothing,P00002,11,0.0
+Clothing,P00002,12,0.0
+Clothing,P00003,1,13.8
+Clothing,P00003,2,0.0
+Clothing,P00003,3,0.0
+Clothing,P00003,4,0.0
+Clothing,P00003,5,12.6
+Clothing,P00003,6,0.0
+Clothing,P00003,7,0.0
+Clothing,P00003,8,0.0
+Clothing,P00003,9,14.3
+Clothing,P00003,10,0.0
+Clothing,P00003,11,0.0
+Clothing,P00003,12,0.0
+Clothing,P00004,1,13.4
+Clothing,P00004,2,0.0
+Clothing,P00004,3,0.0
+Clothing,P00004,4,0.0
+Clothing,P00004,5,12.2
+Clothing,P00004,6,0.0
+Clothing,P00004,7,0.0
+Clothing,P00004,8,0.0
+Clothing,P00004,9,13.9
+Clothing,P00004,10,0.0
+Clothing,P00004,11,0.0
+Clothing,P00004,12,0.0
+Clothing,P00005,1,14.0
+Clothing,P00005,2,0.0
+Clothing,P00005,3,0.0
+Clothing,P00005,4,0.0
+Clothing,P00005,5,12.8
+Clothing,P00005,6,0.0
+Clothing,P00005,7,0.0
+Clothing,P00005,8,0.0
+Clothing,P00005,9,14.5
+Clothing,P00005,10,0.0
+Clothing,P00005,11,0.0
+Clothing,P00005,12,0.0
+Clothing,P00006,1,13.5
+Clothing,P00006,2,0.0
+Clothing,P00006,3,0.0
+Clothing,P00006,4,0.0
+Clothing,P00006,5,12.3
+Clothing,P00006,6,0.0
+Clothing,P00006,7,0.0
+Clothing,P00006,8,0.0
+Clothing,P00006,9,14.0
+Clothing,P00006,10,0.0
+Clothing,P00006,11,0.0
+Clothing,P00006,12,0.0
+Clothing,P00007,1,14.1
+Clothing,P00007,2,0.0
+Clothing,P00007,3,0.0
+Clothing,P00007,4,0.0
+Clothing,P00007,5,12.8
+Clothing,P00007,6,0.0
+Clothing,P00007,7,0.0
+Clothing,P00007,8,0.0
+Clothing,P00007,9,14.6
+Clothing,P00007,10,0.0
+Clothing,P00007,11,0.0
+Clothing,P00007,12,0.0
+Clothing,P00008,1,13.8
+Clothing,P00008,2,0.0
+Clothing,P00008,3,0.0
+Clothing,P00008,4,0.0
+Clothing,P00008,5,12.6
+Clothing,P00008,6,0.0
+Clothing,P00008,7,0.0
+Clothing,P00008,8,0.0
+Clothing,P00008,9,14.3
+Clothing,P00008,10,0.0
+Clothing,P00008,11,0.0
+Clothing,P00008,12,0.0
+Clothing,P00009,1,13.9
+Clothing,P00009,2,0.0
+Clothing,P00009,3,0.0
+Clothing,P00009,4,0.0
+Clothing,P00009,5,12.7
+Clothing,P00009,6,0.0
+Clothing,P00009,7,0.0
+Clothing,P00009,8,0.0
+Clothing,P00009,9,14.4
+Clothing,P00009,10,0.0
+Clothing,P00009,11,0.0
+Clothing,P00009,12,0.0
+Clothing,P00010,1,17.0
+Clothing,P00010,2,0.0
+Clothing,P00010,3,0.0
+Clothing,P00010,4,0.0
+Clothing,P00010,5,15.5
+Clothing,P00010,6,0.0
+Clothing,P00010,7,0.0
+Clothing,P00010,8,0.0
+Clothing,P00010,9,17.6
+Clothing,P00010,10,0.0
+Clothing,P00010,11,0.0
+Clothing,P00010,12,0.0
+Clothing,P00011,1,14.1
+Clothing,P00011,2,0.0
+Clothing,P00011,3,0.0
+Clothing,P00011,4,0.0
+Clothing,P00011,5,12.9
+Clothing,P00011,6,0.0
+Clothing,P00011,7,0.0
+Clothing,P00011,8,0.0
+Clothing,P00011,9,14.6
+Clothing,P00011,10,0.0
+Clothing,P00011,11,0.0
+Clothing,P00011,12,0.0
+Clothing,P00012,1,14.9
+Clothing,P00012,2,0.0
+Clothing,P00012,3,0.0
+Clothing,P00012,4,0.0
+Clothing,P00012,5,13.6
+Clothing,P00012,6,0.0
+Clothing,P00012,7,0.0
+Clothing,P00012,8,0.0
+Clothing,P00012,9,15.4
+Clothing,P00012,10,0.0
+Clothing,P00012,11,0.0
+Clothing,P00012,12,0.0
+Clothing,P00013,1,14.8
+Clothing,P00013,2,0.0
+Clothing,P00013,3,0.0
+Clothing,P00013,4,0.0
+Clothing,P00013,5,13.5
+Clothing,P00013,6,0.0
+Clothing,P00013,7,0.0
+Clothing,P00013,8,0.0
+Clothing,P00013,9,15.3
+Clothing,P00013,10,0.0
+Clothing,P00013,11,0.0
+Clothing,P00013,12,0.0
+Clothing,P00014,1,16.9
+Clothing,P00014,2,0.0
+Clothing,P00014,3,0.0
+Clothing,P00014,4,0.0
+Clothing,P00014,5,15.5
+Clothing,P00014,6,0.0
+Clothing,P00014,7,0.0
+Clothing,P00014,8,0.0
+Clothing,P00014,9,17.5
+Clothing,P00014,10,0.0
+Clothing,P00014,11,0.0
+Clothing,P00014,12,0.0
+Clothing,P00015,1,16.0
+Clothing,P00015,2,0.0
+Clothing,P00015,3,0.0
+Clothing,P00015,4,0.0
+Clothing,P00015,5,14.6
+Clothing,P00015,6,0.0
+Clothing,P00015,7,0.0
+Clothing,P00015,8,0.0
+Clothing,P00015,9,16.6
+Clothing,P00015,10,0.0
+Clothing,P00015,11,0.0
+Clothing,P00015,12,0.0
+Clothing,P00016,1,13.5
+Clothing,P00016,2,0.0
+Clothing,P00016,3,0.0
+Clothing,P00016,4,0.0
+Clothing,P00016,5,12.3
+Clothing,P00016,6,0.0
+Clothing,P00016,7,0.0
+Clothing,P00016,8,0.0
+Clothing,P00016,9,13.9
+Clothing,P00016,10,0.0
+Clothing,P00016,11,0.0
+Clothing,P00016,12,0.0
+Clothing,P00017,1,18.7
+Clothing,P00017,2,0.0
+Clothing,P00017,3,0.0
+Clothing,P00017,4,0.0
+Clothing,P00017,5,17.0
+Clothing,P00017,6,0.0
+Clothing,P00017,7,0.0
+Clothing,P00017,8,0.0
+Clothing,P00017,9,19.3
+Clothing,P00017,10,0.0
+Clothing,P00017,11,0.0
+Clothing,P00017,12,0.0
+Clothing,P00018,1,15.6
+Clothing,P00018,2,0.0
+Clothing,P00018,3,0.0
+Clothing,P00018,4,0.0
+Clothing,P00018,5,14.2
+Clothing,P00018,6,0.0
+Clothing,P00018,7,0.0
+Clothing,P00018,8,0.0
+Clothing,P00018,9,16.2
+Clothing,P00018,10,0.0
+Clothing,P00018,11,0.0
+Clothing,P00018,12,0.0
+Clothing,P00019,1,15.1
+Clothing,P00019,2,0.0
+Clothing,P00019,3,0.0
+Clothing,P00019,4,0.0
+Clothing,P00019,5,13.8
+Clothing,P00019,6,0.0
+Clothing,P00019,7,0.0
+Clothing,P00019,8,0.0
+Clothing,P00019,9,15.7
+Clothing,P00019,10,0.0
+Clothing,P00019,11,0.0
+Clothing,P00019,12,0.0
+Clothing,P00020,1,16.9
+Clothing,P00020,2,0.0
+Clothing,P00020,3,0.0
+Clothing,P00020,4,0.0
+Clothing,P00020,5,15.4
+Clothing,P00020,6,0.0
+Clothing,P00020,7,0.0
+Clothing,P00020,8,0.0
+Clothing,P00020,9,17.5
+Clothing,P00020,10,0.0
+Clothing,P00020,11,0.0
+Clothing,P00020,12,0.0
+Clothing,P00021,1,14.6
+Clothing,P00021,2,0.0
+Clothing,P00021,3,0.0
+Clothing,P00021,4,0.0
+Clothing,P00021,5,13.3
+Clothing,P00021,6,0.0
+Clothing,P00021,7,0.0
+Clothing,P00021,8,0.0
+Clothing,P00021,9,15.1
+Clothing,P00021,10,0.0
+Clothing,P00021,11,0.0
+Clothing,P00021,12,0.0
+Clothing,P00022,1,14.8
+Clothing,P00022,2,0.0
+Clothing,P00022,3,0.0
+Clothing,P00022,4,0.0
+Clothing,P00022,5,13.5
+Clothing,P00022,6,0.0
+Clothing,P00022,7,0.0
+Clothing,P00022,8,0.0
+Clothing,P00022,9,15.4
+Clothing,P00022,10,0.0
+Clothing,P00022,11,0.0
+Clothing,P00022,12,0.0
+Clothing,P00023,1,12.0
+Clothing,P00023,2,0.0
+Clothing,P00023,3,0.0
+Clothing,P00023,4,0.0
+Clothing,P00023,5,11.0
+Clothing,P00023,6,0.0
+Clothing,P00023,7,0.0
+Clothing,P00023,8,0.0
+Clothing,P00023,9,12.5
+Clothing,P00023,10,0.0
+Clothing,P00023,11,0.0
+Clothing,P00023,12,0.0
+Clothing,P00024,1,13.5
+Clothing,P00024,2,0.0
+Clothing,P00024,3,0.0
+Clothing,P00024,4,0.0
+Clothing,P00024,5,12.3
+Clothing,P00024,6,0.0
+Clothing,P00024,7,0.0
+Clothing,P00024,8,0.0
+Clothing,P00024,9,14.0
+Clothing,P00024,10,0.0
+Clothing,P00024,11,0.0
+Clothing,P00024,12,0.0
+Clothing,P00025,1,14.4
+Clothing,P00025,2,0.0
+Clothing,P00025,3,0.0
+Clothing,P00025,4,0.0
+Clothing,P00025,5,13.1
+Clothing,P00025,6,0.0
+Clothing,P00025,7,0.0
+Clothing,P00025,8,0.0
+Clothing,P00025,9,14.9
+Clothing,P00025,10,0.0
+Clothing,P00025,11,0.0
+Clothing,P00025,12,0.0
+Clothing,P00026,1,17.1
+Clothing,P00026,2,0.0
+Clothing,P00026,3,0.0
+Clothing,P00026,4,0.0
+Clothing,P00026,5,15.6
+Clothing,P00026,6,0.0
+Clothing,P00026,7,0.0
+Clothing,P00026,8,0.0
+Clothing,P00026,9,17.7
+Clothing,P00026,10,0.0
+Clothing,P00026,11,0.0
+Clothing,P00026,12,0.0
+Clothing,P00027,1,15.2
+Clothing,P00027,2,0.0
+Clothing,P00027,3,0.0
+Clothing,P00027,4,0.0
+Clothing,P00027,5,13.9
+Clothing,P00027,6,0.0
+Clothing,P00027,7,0.0
+Clothing,P00027,8,0.0
+Clothing,P00027,9,15.8
+Clothing,P00027,10,0.0
+Clothing,P00027,11,0.0
+Clothing,P00027,12,0.0
+Clothing,P00028,1,13.4
+Clothing,P00028,2,0.0
+Clothing,P00028,3,0.0
+Clothing,P00028,4,0.0
+Clothing,P00028,5,12.2
+Clothing,P00028,6,0.0
+Clothing,P00028,7,0.0
+Clothing,P00028,8,0.0
+Clothing,P00028,9,13.9
+Clothing,P00028,10,0.0
+Clothing,P00028,11,0.0
+Clothing,P00028,12,0.0
+Clothing,P00029,1,12.6
+Clothing,P00029,2,0.0
+Clothing,P00029,3,0.0
+Clothing,P00029,4,0.0
+Clothing,P00029,5,11.5
+Clothing,P00029,6,0.0
+Clothing,P00029,7,0.0
+Clothing,P00029,8,0.0
+Clothing,P00029,9,13.1
+Clothing,P00029,10,0.0
+Clothing,P00029,11,0.0
+Clothing,P00029,12,0.0
+Clothing,P00030,1,16.7
+Clothing,P00030,2,0.0
+Clothing,P00030,3,0.0
+Clothing,P00030,4,0.0
+Clothing,P00030,5,15.2
+Clothing,P00030,6,0.0
+Clothing,P00030,7,0.0
+Clothing,P00030,8,0.0
+Clothing,P00030,9,17.3
+Clothing,P00030,10,0.0
+Clothing,P00030,11,0.0
+Clothing,P00030,12,0.0
+Clothing,P00031,1,18.2
+Clothing,P00031,2,0.0
+Clothing,P00031,3,0.0
+Clothing,P00031,4,0.0
+Clothing,P00031,5,16.6
+Clothing,P00031,6,0.0
+Clothing,P00031,7,0.0
+Clothing,P00031,8,0.0
+Clothing,P00031,9,18.8
+Clothing,P00031,10,0.0
+Clothing,P00031,11,0.0
+Clothing,P00031,12,0.0
+Clothing,P00032,1,16.3
+Clothing,P00032,2,0.0
+Clothing,P00032,3,0.0
+Clothing,P00032,4,0.0
+Clothing,P00032,5,14.9
+Clothing,P00032,6,0.0
+Clothing,P00032,7,0.0
+Clothing,P00032,8,0.0
+Clothing,P00032,9,16.9
+Clothing,P00032,10,0.0
+Clothing,P00032,11,0.0
+Clothing,P00032,12,0.0
+Clothing,P00033,1,16.1
+Clothing,P00033,2,0.0
+Clothing,P00033,3,0.0
+Clothing,P00033,4,0.0
+Clothing,P00033,5,14.6
+Clothing,P00033,6,0.0
+Clothing,P00033,7,0.0
+Clothing,P00033,8,0.0
+Clothing,P00033,9,16.6
+Clothing,P00033,10,0.0
+Clothing,P00033,11,0.0
+Clothing,P00033,12,0.0
+Clothing,P00034,1,14.1
+Clothing,P00034,2,0.0
+Clothing,P00034,3,0.0
+Clothing,P00034,4,0.0
+Clothing,P00034,5,12.8
+Clothing,P00034,6,0.0
+Clothing,P00034,7,0.0
+Clothing,P00034,8,0.0
+Clothing,P00034,9,14.6
+Clothing,P00034,10,0.0
+Clothing,P00034,11,0.0
+Clothing,P00034,12,0.0
+Clothing,P00035,1,13.4
+Clothing,P00035,2,0.0
+Clothing,P00035,3,0.0
+Clothing,P00035,4,0.0
+Clothing,P00035,5,12.2
+Clothing,P00035,6,0.0
+Clothing,P00035,7,0.0
+Clothing,P00035,8,0.0
+Clothing,P00035,9,13.9
+Clothing,P00035,10,0.0
+Clothing,P00035,11,0.0
+Clothing,P00035,12,0.0
+Clothing,P00036,1,14.3
+Clothing,P00036,2,0.0
+Clothing,P00036,3,0.0
+Clothing,P00036,4,0.0
+Clothing,P00036,5,13.1
+Clothing,P00036,6,0.0
+Clothing,P00036,7,0.0
+Clothing,P00036,8,0.0
+Clothing,P00036,9,14.8
+Clothing,P00036,10,0.0
+Clothing,P00036,11,0.0
+Clothing,P00036,12,0.0
+Clothing,P00037,1,16.1
+Clothing,P00037,2,0.0
+Clothing,P00037,3,0.0
+Clothing,P00037,4,0.0
+Clothing,P00037,5,14.7
+Clothing,P00037,6,0.0
+Clothing,P00037,7,0.0
+Clothing,P00037,8,0.0
+Clothing,P00037,9,16.7
+Clothing,P00037,10,0.0
+Clothing,P00037,11,0.0
+Clothing,P00037,12,0.0
+Clothing,P00038,1,12.4
+Clothing,P00038,2,0.0
+Clothing,P00038,3,0.0
+Clothing,P00038,4,0.0
+Clothing,P00038,5,11.3
+Clothing,P00038,6,0.0
+Clothing,P00038,7,0.0
+Clothing,P00038,8,0.0
+Clothing,P00038,9,12.9
+Clothing,P00038,10,0.0
+Clothing,P00038,11,0.0
+Clothing,P00038,12,0.0
+Clothing,P00039,1,15.1
+Clothing,P00039,2,0.0
+Clothing,P00039,3,0.0
+Clothing,P00039,4,0.0
+Clothing,P00039,5,13.8
+Clothing,P00039,6,0.0
+Clothing,P00039,7,0.0
+Clothing,P00039,8,0.0
+Clothing,P00039,9,15.6
+Clothing,P00039,10,0.0
+Clothing,P00039,11,0.0
+Clothing,P00039,12,0.0
+Clothing,P00040,1,15.5
+Clothing,P00040,2,0.0
+Clothing,P00040,3,0.0
+Clothing,P00040,4,0.0
+Clothing,P00040,5,14.1
+Clothing,P00040,6,0.0
+Clothing,P00040,7,0.0
+Clothing,P00040,8,0.0
+Clothing,P00040,9,16.0
+Clothing,P00040,10,0.0
+Clothing,P00040,11,0.0
+Clothing,P00040,12,0.0
+Clothing,P00041,1,14.7
+Clothing,P00041,2,0.0
+Clothing,P00041,3,0.0
+Clothing,P00041,4,0.0
+Clothing,P00041,5,13.4
+Clothing,P00041,6,0.0
+Clothing,P00041,7,0.0
+Clothing,P00041,8,0.0
+Clothing,P00041,9,15.2
+Clothing,P00041,10,0.0
+Clothing,P00041,11,0.0
+Clothing,P00041,12,0.0
+Clothing,P00042,1,14.8
+Clothing,P00042,2,0.0
+Clothing,P00042,3,0.0
+Clothing,P00042,4,0.0
+Clothing,P00042,5,13.5
+Clothing,P00042,6,0.0
+Clothing,P00042,7,0.0
+Clothing,P00042,8,0.0
+Clothing,P00042,9,15.3
+Clothing,P00042,10,0.0
+Clothing,P00042,11,0.0
+Clothing,P00042,12,0.0
+Clothing,P00043,1,15.2
+Clothing,P00043,2,0.0
+Clothing,P00043,3,0.0
+Clothing,P00043,4,0.0
+Clothing,P00043,5,13.9
+Clothing,P00043,6,0.0
+Clothing,P00043,7,0.0
+Clothing,P00043,8,0.0
+Clothing,P00043,9,15.7
+Clothing,P00043,10,0.0
+Clothing,P00043,11,0.0
+Clothing,P00043,12,0.0
+Clothing,P00044,1,14.2
+Clothing,P00044,2,0.0
+Clothing,P00044,3,0.0
+Clothing,P00044,4,0.0
+Clothing,P00044,5,13.0
+Clothing,P00044,6,0.0
+Clothing,P00044,7,0.0
+Clothing,P00044,8,0.0
+Clothing,P00044,9,14.7
+Clothing,P00044,10,0.0
+Clothing,P00044,11,0.0
+Clothing,P00044,12,0.0
+Clothing,P00045,1,13.8
+Clothing,P00045,2,0.0
+Clothing,P00045,3,0.0
+Clothing,P00045,4,0.0
+Clothing,P00045,5,12.6
+Clothing,P00045,6,0.0
+Clothing,P00045,7,0.0
+Clothing,P00045,8,0.0
+Clothing,P00045,9,14.3
+Clothing,P00045,10,0.0
+Clothing,P00045,11,0.0
+Clothing,P00045,12,0.0
+Clothing,P00046,1,13.3
+Clothing,P00046,2,0.0
+Clothing,P00046,3,0.0
+Clothing,P00046,4,0.0
+Clothing,P00046,5,12.2
+Clothing,P00046,6,0.0
+Clothing,P00046,7,0.0
+Clothing,P00046,8,0.0
+Clothing,P00046,9,13.8
+Clothing,P00046,10,0.0
+Clothing,P00046,11,0.0
+Clothing,P00046,12,0.0
+Clothing,P00047,1,16.3
+Clothing,P00047,2,0.0
+Clothing,P00047,3,0.0
+Clothing,P00047,4,0.0
+Clothing,P00047,5,14.9
+Clothing,P00047,6,0.0
+Clothing,P00047,7,0.0
+Clothing,P00047,8,0.0
+Clothing,P00047,9,16.9
+Clothing,P00047,10,0.0
+Clothing,P00047,11,0.0
+Clothing,P00047,12,0.0
+Clothing,P00048,1,17.0
+Clothing,P00048,2,0.0
+Clothing,P00048,3,0.0
+Clothing,P00048,4,0.0
+Clothing,P00048,5,15.5
+Clothing,P00048,6,0.0
+Clothing,P00048,7,0.0
+Clothing,P00048,8,0.0
+Clothing,P00048,9,17.6
+Clothing,P00048,10,0.0
+Clothing,P00048,11,0.0
+Clothing,P00048,12,0.0
+Clothing,P00049,1,14.4
+Clothing,P00049,2,0.0
+Clothing,P00049,3,0.0
+Clothing,P00049,4,0.0
+Clothing,P00049,5,13.2
+Clothing,P00049,6,0.0
+Clothing,P00049,7,0.0
+Clothing,P00049,8,0.0
+Clothing,P00049,9,15.0
+Clothing,P00049,10,0.0
+Clothing,P00049,11,0.0
+Clothing,P00049,12,0.0
+Clothing,P00050,1,15.1
+Clothing,P00050,2,0.0
+Clothing,P00050,3,0.0
+Clothing,P00050,4,0.0
+Clothing,P00050,5,13.8
+Clothing,P00050,6,0.0
+Clothing,P00050,7,0.0
+Clothing,P00050,8,0.0
+Clothing,P00050,9,15.7
+Clothing,P00050,10,0.0
+Clothing,P00050,11,0.0
+Clothing,P00050,12,0.0
+Electronics,P00001,1,17.0
+Electronics,P00001,2,0.0
+Electronics,P00001,3,0.0
+Electronics,P00001,4,0.0
+Electronics,P00001,5,18.6
+Electronics,P00001,6,0.0
+Electronics,P00001,7,0.0
+Electronics,P00001,8,0.0
+Electronics,P00001,9,18.2
+Electronics,P00001,10,0.0
+Electronics,P00001,11,0.0
+Electronics,P00001,12,0.0
+Electronics,P00002,1,15.7
+Electronics,P00002,2,0.0
+Electronics,P00002,3,0.0
+Electronics,P00002,4,0.0
+Electronics,P00002,5,17.1
+Electronics,P00002,6,0.0
+Electronics,P00002,7,0.0
+Electronics,P00002,8,0.0
+Electronics,P00002,9,16.8
+Electronics,P00002,10,0.0
+Electronics,P00002,11,0.0
+Electronics,P00002,12,0.0
+Electronics,P00003,1,14.8
+Electronics,P00003,2,0.0
+Electronics,P00003,3,0.0
+Electronics,P00003,4,0.0
+Electronics,P00003,5,16.1
+Electronics,P00003,6,0.0
+Electronics,P00003,7,0.0
+Electronics,P00003,8,0.0
+Electronics,P00003,9,15.8
+Electronics,P00003,10,0.0
+Electronics,P00003,11,0.0
+Electronics,P00003,12,0.0
+Electronics,P00004,1,12.3
+Electronics,P00004,2,0.0
+Electronics,P00004,3,0.0
+Electronics,P00004,4,0.0
+Electronics,P00004,5,13.5
+Electronics,P00004,6,0.0
+Electronics,P00004,7,0.0
+Electronics,P00004,8,0.0
+Electronics,P00004,9,13.2
+Electronics,P00004,10,0.0
+Electronics,P00004,11,0.0
+Electronics,P00004,12,0.0
+Electronics,P00005,1,14.6
+Electronics,P00005,2,0.0
+Electronics,P00005,3,0.0
+Electronics,P00005,4,0.0
+Electronics,P00005,5,16.0
+Electronics,P00005,6,0.0
+Electronics,P00005,7,0.0
+Electronics,P00005,8,0.0
+Electronics,P00005,9,15.7
+Electronics,P00005,10,0.0
+Electronics,P00005,11,0.0
+Electronics,P00005,12,0.0
+Electronics,P00006,1,14.6
+Electronics,P00006,2,0.0
+Electronics,P00006,3,0.0
+Electronics,P00006,4,0.0
+Electronics,P00006,5,16.0
+Electronics,P00006,6,0.0
+Electronics,P00006,7,0.0
+Electronics,P00006,8,0.0
+Electronics,P00006,9,15.7
+Electronics,P00006,10,0.0
+Electronics,P00006,11,0.0
+Electronics,P00006,12,0.0
+Electronics,P00007,1,15.0
+Electronics,P00007,2,0.0
+Electronics,P00007,3,0.0
+Electronics,P00007,4,0.0
+Electronics,P00007,5,16.4
+Electronics,P00007,6,0.0
+Electronics,P00007,7,0.0
+Electronics,P00007,8,0.0
+Electronics,P00007,9,16.1
+Electronics,P00007,10,0.0
+Electronics,P00007,11,0.0
+Electronics,P00007,12,0.0
+Electronics,P00008,1,14.6
+Electronics,P00008,2,0.0
+Electronics,P00008,3,0.0
+Electronics,P00008,4,0.0
+Electronics,P00008,5,16.0
+Electronics,P00008,6,0.0
+Electronics,P00008,7,0.0
+Electronics,P00008,8,0.0
+Electronics,P00008,9,15.7
+Electronics,P00008,10,0.0
+Electronics,P00008,11,0.0
+Electronics,P00008,12,0.0
+Electronics,P00009,1,15.0
+Electronics,P00009,2,0.0
+Electronics,P00009,3,0.0
+Electronics,P00009,4,0.0
+Electronics,P00009,5,16.4
+Electronics,P00009,6,0.0
+Electronics,P00009,7,0.0
+Electronics,P00009,8,0.0
+Electronics,P00009,9,16.0
+Electronics,P00009,10,0.0
+Electronics,P00009,11,0.0
+Electronics,P00009,12,0.0
+Electronics,P00010,1,15.2
+Electronics,P00010,2,0.0
+Electronics,P00010,3,0.0
+Electronics,P00010,4,0.0
+Electronics,P00010,5,16.6
+Electronics,P00010,6,0.0
+Electronics,P00010,7,0.0
+Electronics,P00010,8,0.0
+Electronics,P00010,9,16.3
+Electronics,P00010,10,0.0
+Electronics,P00010,11,0.0
+Electronics,P00010,12,0.0
+Electronics,P00011,1,14.4
+Electronics,P00011,2,0.0
+Electronics,P00011,3,0.0
+Electronics,P00011,4,0.0
+Electronics,P00011,5,15.8
+Electronics,P00011,6,0.0
+Electronics,P00011,7,0.0
+Electronics,P00011,8,0.0
+Electronics,P00011,9,15.4
+Electronics,P00011,10,0.0
+Electronics,P00011,11,0.0
+Electronics,P00011,12,0.0
+Electronics,P00012,1,12.4
+Electronics,P00012,2,0.0
+Electronics,P00012,3,0.0
+Electronics,P00012,4,0.0
+Electronics,P00012,5,13.6
+Electronics,P00012,6,0.0
+Electronics,P00012,7,0.0
+Electronics,P00012,8,0.0
+Electronics,P00012,9,13.3
+Electronics,P00012,10,0.0
+Electronics,P00012,11,0.0
+Electronics,P00012,12,0.0
+Electronics,P00013,1,15.1
+Electronics,P00013,2,0.0
+Electronics,P00013,3,0.0
+Electronics,P00013,4,0.0
+Electronics,P00013,5,16.5
+Electronics,P00013,6,0.0
+Electronics,P00013,7,0.0
+Electronics,P00013,8,0.0
+Electronics,P00013,9,16.1
+Electronics,P00013,10,0.0
+Electronics,P00013,11,0.0
+Electronics,P00013,12,0.0
+Electronics,P00014,1,14.7
+Electronics,P00014,2,0.0
+Electronics,P00014,3,0.0
+Electronics,P00014,4,0.0
+Electronics,P00014,5,16.0
+Electronics,P00014,6,0.0
+Electronics,P00014,7,0.0
+Electronics,P00014,8,0.0
+Electronics,P00014,9,15.7
+Electronics,P00014,10,0.0
+Electronics,P00014,11,0.0
+Electronics,P00014,12,0.0
+Electronics,P00015,1,15.5
+Electronics,P00015,2,0.0
+Electronics,P00015,3,0.0
+Electronics,P00015,4,0.0
+Electronics,P00015,5,16.9
+Electronics,P00015,6,0.0
+Electronics,P00015,7,0.0
+Electronics,P00015,8,0.0
+Electronics,P00015,9,16.6
+Electronics,P00015,10,0.0
+Electronics,P00015,11,0.0
+Electronics,P00015,12,0.0
+Electronics,P00016,1,16.1
+Electronics,P00016,2,0.0
+Electronics,P00016,3,0.0
+Electronics,P00016,4,0.0
+Electronics,P00016,5,17.6
+Electronics,P00016,6,0.0
+Electronics,P00016,7,0.0
+Electronics,P00016,8,0.0
+Electronics,P00016,9,17.2
+Electronics,P00016,10,0.0
+Electronics,P00016,11,0.0
+Electronics,P00016,12,0.0
+Electronics,P00017,1,16.6
+Electronics,P00017,2,0.0
+Electronics,P00017,3,0.0
+Electronics,P00017,4,0.0
+Electronics,P00017,5,18.1
+Electronics,P00017,6,0.0
+Electronics,P00017,7,0.0
+Electronics,P00017,8,0.0
+Electronics,P00017,9,17.8
+Electronics,P00017,10,0.0
+Electronics,P00017,11,0.0
+Electronics,P00017,12,0.0
+Electronics,P00018,1,15.2
+Electronics,P00018,2,0.0
+Electronics,P00018,3,0.0
+Electronics,P00018,4,0.0
+Electronics,P00018,5,16.6
+Electronics,P00018,6,0.0
+Electronics,P00018,7,0.0
+Electronics,P00018,8,0.0
+Electronics,P00018,9,16.3
+Electronics,P00018,10,0.0
+Electronics,P00018,11,0.0
+Electronics,P00018,12,0.0
+Electronics,P00019,1,14.4
+Electronics,P00019,2,0.0
+Electronics,P00019,3,0.0
+Electronics,P00019,4,0.0
+Electronics,P00019,5,15.7
+Electronics,P00019,6,0.0
+Electronics,P00019,7,0.0
+Electronics,P00019,8,0.0
+Electronics,P00019,9,15.4
+Electronics,P00019,10,0.0
+Electronics,P00019,11,0.0
+Electronics,P00019,12,0.0
+Electronics,P00020,1,15.2
+Electronics,P00020,2,0.0
+Electronics,P00020,3,0.0
+Electronics,P00020,4,0.0
+Electronics,P00020,5,16.6
+Electronics,P00020,6,0.0
+Electronics,P00020,7,0.0
+Electronics,P00020,8,0.0
+Electronics,P00020,9,16.3
+Electronics,P00020,10,0.0
+Electronics,P00020,11,0.0
+Electronics,P00020,12,0.0
+Electronics,P00021,1,12.8
+Electronics,P00021,2,0.0
+Electronics,P00021,3,0.0
+Electronics,P00021,4,0.0
+Electronics,P00021,5,14.0
+Electronics,P00021,6,0.0
+Electronics,P00021,7,0.0
+Electronics,P00021,8,0.0
+Electronics,P00021,9,13.7
+Electronics,P00021,10,0.0
+Electronics,P00021,11,0.0
+Electronics,P00021,12,0.0
+Electronics,P00022,1,16.8
+Electronics,P00022,2,0.0
+Electronics,P00022,3,0.0
+Electronics,P00022,4,0.0
+Electronics,P00022,5,18.4
+Electronics,P00022,6,0.0
+Electronics,P00022,7,0.0
+Electronics,P00022,8,0.0
+Electronics,P00022,9,18.0
+Electronics,P00022,10,0.0
+Electronics,P00022,11,0.0
+Electronics,P00022,12,0.0
+Electronics,P00023,1,20.0
+Electronics,P00023,2,0.0
+Electronics,P00023,3,0.0
+Electronics,P00023,4,0.0
+Electronics,P00023,5,21.9
+Electronics,P00023,6,0.0
+Electronics,P00023,7,0.0
+Electronics,P00023,8,0.0
+Electronics,P00023,9,21.4
+Electronics,P00023,10,0.0
+Electronics,P00023,11,0.0
+Electronics,P00023,12,0.0
+Electronics,P00024,1,16.6
+Electronics,P00024,2,0.0
+Electronics,P00024,3,0.0
+Electronics,P00024,4,0.0
+Electronics,P00024,5,18.1
+Electronics,P00024,6,0.0
+Electronics,P00024,7,0.0
+Electronics,P00024,8,0.0
+Electronics,P00024,9,17.7
+Electronics,P00024,10,0.0
+Electronics,P00024,11,0.0
+Electronics,P00024,12,0.0
+Electronics,P00025,1,13.9
+Electronics,P00025,2,0.0
+Electronics,P00025,3,0.0
+Electronics,P00025,4,0.0
+Electronics,P00025,5,15.2
+Electronics,P00025,6,0.0
+Electronics,P00025,7,0.0
+Electronics,P00025,8,0.0
+Electronics,P00025,9,14.9
+Electronics,P00025,10,0.0
+Electronics,P00025,11,0.0
+Electronics,P00025,12,0.0
+Electronics,P00026,1,13.8
+Electronics,P00026,2,0.0
+Electronics,P00026,3,0.0
+Electronics,P00026,4,0.0
+Electronics,P00026,5,15.1
+Electronics,P00026,6,0.0
+Electronics,P00026,7,0.0
+Electronics,P00026,8,0.0
+Electronics,P00026,9,14.8
+Electronics,P00026,10,0.0
+Electronics,P00026,11,0.0
+Electronics,P00026,12,0.0
+Electronics,P00027,1,14.1
+Electronics,P00027,2,0.0
+Electronics,P00027,3,0.0
+Electronics,P00027,4,0.0
+Electronics,P00027,5,15.4
+Electronics,P00027,6,0.0
+Electronics,P00027,7,0.0
+Electronics,P00027,8,0.0
+Electronics,P00027,9,15.1
+Electronics,P00027,10,0.0
+Electronics,P00027,11,0.0
+Electronics,P00027,12,0.0
+Electronics,P00028,1,13.6
+Electronics,P00028,2,0.0
+Electronics,P00028,3,0.0
+Electronics,P00028,4,0.0
+Electronics,P00028,5,14.9
+Electronics,P00028,6,0.0
+Electronics,P00028,7,0.0
+Electronics,P00028,8,0.0
+Electronics,P00028,9,14.5
+Electronics,P00028,10,0.0
+Electronics,P00028,11,0.0
+Electronics,P00028,12,0.0
+Electronics,P00029,1,15.5
+Electronics,P00029,2,0.0
+Electronics,P00029,3,0.0
+Electronics,P00029,4,0.0
+Electronics,P00029,5,16.9
+Electronics,P00029,6,0.0
+Electronics,P00029,7,0.0
+Electronics,P00029,8,0.0
+Electronics,P00029,9,16.6
+Electronics,P00029,10,0.0
+Electronics,P00029,11,0.0
+Electronics,P00029,12,0.0
+Electronics,P00030,1,14.5
+Electronics,P00030,2,0.0
+Electronics,P00030,3,0.0
+Electronics,P00030,4,0.0
+Electronics,P00030,5,15.9
+Electronics,P00030,6,0.0
+Electronics,P00030,7,0.0
+Electronics,P00030,8,0.0
+Electronics,P00030,9,15.6
+Electronics,P00030,10,0.0
+Electronics,P00030,11,0.0
+Electronics,P00030,12,0.0
+Electronics,P00031,1,15.2
+Electronics,P00031,2,0.0
+Electronics,P00031,3,0.0
+Electronics,P00031,4,0.0
+Electronics,P00031,5,16.6
+Electronics,P00031,6,0.0
+Electronics,P00031,7,0.0
+Electronics,P00031,8,0.0
+Electronics,P00031,9,16.3
+Electronics,P00031,10,0.0
+Electronics,P00031,11,0.0
+Electronics,P00031,12,0.0
+Electronics,P00032,1,17.0
+Electronics,P00032,2,0.0
+Electronics,P00032,3,0.0
+Electronics,P00032,4,0.0
+Electronics,P00032,5,18.5
+Electronics,P00032,6,0.0
+Electronics,P00032,7,0.0
+Electronics,P00032,8,0.0
+Electronics,P00032,9,18.2
+Electronics,P00032,10,0.0
+Electronics,P00032,11,0.0
+Electronics,P00032,12,0.0
+Electronics,P00033,1,14.5
+Electronics,P00033,2,0.0
+Electronics,P00033,3,0.0
+Electronics,P00033,4,0.0
+Electronics,P00033,5,15.9
+Electronics,P00033,6,0.0
+Electronics,P00033,7,0.0
+Electronics,P00033,8,0.0
+Electronics,P00033,9,15.6
+Electronics,P00033,10,0.0
+Electronics,P00033,11,0.0
+Electronics,P00033,12,0.0
+Electronics,P00034,1,16.0
+Electronics,P00034,2,0.0
+Electronics,P00034,3,0.0
+Electronics,P00034,4,0.0
+Electronics,P00034,5,17.4
+Electronics,P00034,6,0.0
+Electronics,P00034,7,0.0
+Electronics,P00034,8,0.0
+Electronics,P00034,9,17.1
+Electronics,P00034,10,0.0
+Electronics,P00034,11,0.0
+Electronics,P00034,12,0.0
+Electronics,P00035,1,16.1
+Electronics,P00035,2,0.0
+Electronics,P00035,3,0.0
+Electronics,P00035,4,0.0
+Electronics,P00035,5,17.6
+Electronics,P00035,6,0.0
+Electronics,P00035,7,0.0
+Electronics,P00035,8,0.0
+Electronics,P00035,9,17.2
+Electronics,P00035,10,0.0
+Electronics,P00035,11,0.0
+Electronics,P00035,12,0.0
+Electronics,P00036,1,16.8
+Electronics,P00036,2,0.0
+Electronics,P00036,3,0.0
+Electronics,P00036,4,0.0
+Electronics,P00036,5,18.3
+Electronics,P00036,6,0.0
+Electronics,P00036,7,0.0
+Electronics,P00036,8,0.0
+Electronics,P00036,9,17.9
+Electronics,P00036,10,0.0
+Electronics,P00036,11,0.0
+Electronics,P00036,12,0.0
+Electronics,P00037,1,14.8
+Electronics,P00037,2,0.0
+Electronics,P00037,3,0.0
+Electronics,P00037,4,0.0
+Electronics,P00037,5,16.2
+Electronics,P00037,6,0.0
+Electronics,P00037,7,0.0
+Electronics,P00037,8,0.0
+Electronics,P00037,9,15.8
+Electronics,P00037,10,0.0
+Electronics,P00037,11,0.0
+Electronics,P00037,12,0.0
+Electronics,P00038,1,12.7
+Electronics,P00038,2,0.0
+Electronics,P00038,3,0.0
+Electronics,P00038,4,0.0
+Electronics,P00038,5,13.9
+Electronics,P00038,6,0.0
+Electronics,P00038,7,0.0
+Electronics,P00038,8,0.0
+Electronics,P00038,9,13.6
+Electronics,P00038,10,0.0
+Electronics,P00038,11,0.0
+Electronics,P00038,12,0.0
+Electronics,P00039,1,13.1
+Electronics,P00039,2,0.0
+Electronics,P00039,3,0.0
+Electronics,P00039,4,0.0
+Electronics,P00039,5,14.3
+Electronics,P00039,6,0.0
+Electronics,P00039,7,0.0
+Electronics,P00039,8,0.0
+Electronics,P00039,9,14.0
+Electronics,P00039,10,0.0
+Electronics,P00039,11,0.0
+Electronics,P00039,12,0.0
+Electronics,P00040,1,16.0
+Electronics,P00040,2,0.0
+Electronics,P00040,3,0.0
+Electronics,P00040,4,0.0
+Electronics,P00040,5,17.5
+Electronics,P00040,6,0.0
+Electronics,P00040,7,0.0
+Electronics,P00040,8,0.0
+Electronics,P00040,9,17.1
+Electronics,P00040,10,0.0
+Electronics,P00040,11,0.0
+Electronics,P00040,12,0.0
+Electronics,P00041,1,16.2
+Electronics,P00041,2,0.0
+Electronics,P00041,3,0.0
+Electronics,P00041,4,0.0
+Electronics,P00041,5,17.7
+Electronics,P00041,6,0.0
+Electronics,P00041,7,0.0
+Electronics,P00041,8,0.0
+Electronics,P00041,9,17.3
+Electronics,P00041,10,0.0
+Electronics,P00041,11,0.0
+Electronics,P00041,12,0.0
+Electronics,P00042,1,14.9
+Electronics,P00042,2,0.0
+Electronics,P00042,3,0.0
+Electronics,P00042,4,0.0
+Electronics,P00042,5,16.3
+Electronics,P00042,6,0.0
+Electronics,P00042,7,0.0
+Electronics,P00042,8,0.0
+Electronics,P00042,9,15.9
+Electronics,P00042,10,0.0
+Electronics,P00042,11,0.0
+Electronics,P00042,12,0.0
+Electronics,P00043,1,14.6
+Electronics,P00043,2,0.0
+Electronics,P00043,3,0.0
+Electronics,P00043,4,0.0
+Electronics,P00043,5,15.9
+Electronics,P00043,6,0.0
+Electronics,P00043,7,0.0
+Electronics,P00043,8,0.0
+Electronics,P00043,9,15.6
+Electronics,P00043,10,0.0
+Electronics,P00043,11,0.0
+Electronics,P00043,12,0.0
+Electronics,P00044,1,15.2
+Electronics,P00044,2,0.0
+Electronics,P00044,3,0.0
+Electronics,P00044,4,0.0
+Electronics,P00044,5,16.6
+Electronics,P00044,6,0.0
+Electronics,P00044,7,0.0
+Electronics,P00044,8,0.0
+Electronics,P00044,9,16.2
+Electronics,P00044,10,0.0
+Electronics,P00044,11,0.0
+Electronics,P00044,12,0.0
+Electronics,P00045,1,15.9
+Electronics,P00045,2,0.0
+Electronics,P00045,3,0.0
+Electronics,P00045,4,0.0
+Electronics,P00045,5,17.3
+Electronics,P00045,6,0.0
+Electronics,P00045,7,0.0
+Electronics,P00045,8,0.0
+Electronics,P00045,9,17.0
+Electronics,P00045,10,0.0
+Electronics,P00045,11,0.0
+Electronics,P00045,12,0.0
+Electronics,P00046,1,13.5
+Electronics,P00046,2,0.0
+Electronics,P00046,3,0.0
+Electronics,P00046,4,0.0
+Electronics,P00046,5,14.7
+Electronics,P00046,6,0.0
+Electronics,P00046,7,0.0
+Electronics,P00046,8,0.0
+Electronics,P00046,9,14.4
+Electronics,P00046,10,0.0
+Electronics,P00046,11,0.0
+Electronics,P00046,12,0.0
+Electronics,P00047,1,15.4
+Electronics,P00047,2,0.0
+Electronics,P00047,3,0.0
+Electronics,P00047,4,0.0
+Electronics,P00047,5,16.8
+Electronics,P00047,6,0.0
+Electronics,P00047,7,0.0
+Electronics,P00047,8,0.0
+Electronics,P00047,9,16.5
+Electronics,P00047,10,0.0
+Electronics,P00047,11,0.0
+Electronics,P00047,12,0.0
+Electronics,P00048,1,13.7
+Electronics,P00048,2,0.0
+Electronics,P00048,3,0.0
+Electronics,P00048,4,0.0
+Electronics,P00048,5,15.0
+Electronics,P00048,6,0.0
+Electronics,P00048,7,0.0
+Electronics,P00048,8,0.0
+Electronics,P00048,9,14.6
+Electronics,P00048,10,0.0
+Electronics,P00048,11,0.0
+Electronics,P00048,12,0.0
+Electronics,P00049,1,13.9
+Electronics,P00049,2,0.0
+Electronics,P00049,3,0.0
+Electronics,P00049,4,0.0
+Electronics,P00049,5,15.2
+Electronics,P00049,6,0.0
+Electronics,P00049,7,0.0
+Electronics,P00049,8,0.0
+Electronics,P00049,9,14.9
+Electronics,P00049,10,0.0
+Electronics,P00049,11,0.0
+Electronics,P00049,12,0.0
+Electronics,P00050,1,15.6
+Electronics,P00050,2,0.0
+Electronics,P00050,3,0.0
+Electronics,P00050,4,0.0
+Electronics,P00050,5,17.1
+Electronics,P00050,6,0.0
+Electronics,P00050,7,0.0
+Electronics,P00050,8,0.0
+Electronics,P00050,9,16.7
+Electronics,P00050,10,0.0
+Electronics,P00050,11,0.0
+Electronics,P00050,12,0.0
+Home & Kitchen,P00001,1,13.9
+Home & Kitchen,P00001,2,0.0
+Home & Kitchen,P00001,3,0.0
+Home & Kitchen,P00001,4,0.0
+Home & Kitchen,P00001,5,13.3
+Home & Kitchen,P00001,6,0.0
+Home & Kitchen,P00001,7,0.0
+Home & Kitchen,P00001,8,0.0
+Home & Kitchen,P00001,9,13.9
+Home & Kitchen,P00001,10,0.0
+Home & Kitchen,P00001,11,0.0
+Home & Kitchen,P00001,12,0.0
+Home & Kitchen,P00002,1,14.9
+Home & Kitchen,P00002,2,0.0
+Home & Kitchen,P00002,3,0.0
+Home & Kitchen,P00002,4,0.0
+Home & Kitchen,P00002,5,14.3
+Home & Kitchen,P00002,6,0.0
+Home & Kitchen,P00002,7,0.0
+Home & Kitchen,P00002,8,0.0
+Home & Kitchen,P00002,9,15.0
+Home & Kitchen,P00002,10,0.0
+Home & Kitchen,P00002,11,0.0
+Home & Kitchen,P00002,12,0.0
+Home & Kitchen,P00003,1,14.0
+Home & Kitchen,P00003,2,0.0
+Home & Kitchen,P00003,3,0.0
+Home & Kitchen,P00003,4,0.0
+Home & Kitchen,P00003,5,13.4
+Home & Kitchen,P00003,6,0.0
+Home & Kitchen,P00003,7,0.0
+Home & Kitchen,P00003,8,0.0
+Home & Kitchen,P00003,9,14.0
+Home & Kitchen,P00003,10,0.0
+Home & Kitchen,P00003,11,0.0
+Home & Kitchen,P00003,12,0.0
+Home & Kitchen,P00004,1,15.4
+Home & Kitchen,P00004,2,0.0
+Home & Kitchen,P00004,3,0.0
+Home & Kitchen,P00004,4,0.0
+Home & Kitchen,P00004,5,14.8
+Home & Kitchen,P00004,6,0.0
+Home & Kitchen,P00004,7,0.0
+Home & Kitchen,P00004,8,0.0
+Home & Kitchen,P00004,9,15.5
+Home & Kitchen,P00004,10,0.0
+Home & Kitchen,P00004,11,0.0
+Home & Kitchen,P00004,12,0.0
+Home & Kitchen,P00005,1,14.0
+Home & Kitchen,P00005,2,0.0
+Home & Kitchen,P00005,3,0.0
+Home & Kitchen,P00005,4,0.0
+Home & Kitchen,P00005,5,13.5
+Home & Kitchen,P00005,6,0.0
+Home & Kitchen,P00005,7,0.0
+Home & Kitchen,P00005,8,0.0
+Home & Kitchen,P00005,9,14.1
+Home & Kitchen,P00005,10,0.0
+Home & Kitchen,P00005,11,0.0
+Home & Kitchen,P00005,12,0.0
+Home & Kitchen,P00006,1,15.7
+Home & Kitchen,P00006,2,0.0
+Home & Kitchen,P00006,3,0.0
+Home & Kitchen,P00006,4,0.0
+Home & Kitchen,P00006,5,15.1
+Home & Kitchen,P00006,6,0.0
+Home & Kitchen,P00006,7,0.0
+Home & Kitchen,P00006,8,0.0
+Home & Kitchen,P00006,9,15.8
+Home & Kitchen,P00006,10,0.0
+Home & Kitchen,P00006,11,0.0
+Home & Kitchen,P00006,12,0.0
+Home & Kitchen,P00007,1,16.4
+Home & Kitchen,P00007,2,0.0
+Home & Kitchen,P00007,3,0.0
+Home & Kitchen,P00007,4,0.0
+Home & Kitchen,P00007,5,15.7
+Home & Kitchen,P00007,6,0.0
+Home & Kitchen,P00007,7,0.0
+Home & Kitchen,P00007,8,0.0
+Home & Kitchen,P00007,9,16.4
+Home & Kitchen,P00007,10,0.0
+Home & Kitchen,P00007,11,0.0
+Home & Kitchen,P00007,12,0.0
+Home & Kitchen,P00008,1,16.4
+Home & Kitchen,P00008,2,0.0
+Home & Kitchen,P00008,3,0.0
+Home & Kitchen,P00008,4,0.0
+Home & Kitchen,P00008,5,15.7
+Home & Kitchen,P00008,6,0.0
+Home & Kitchen,P00008,7,0.0
+Home & Kitchen,P00008,8,0.0
+Home & Kitchen,P00008,9,16.5
+Home & Kitchen,P00008,10,0.0
+Home & Kitchen,P00008,11,0.0
+Home & Kitchen,P00008,12,0.0
+Home & Kitchen,P00009,1,18.4
+Home & Kitchen,P00009,2,0.0
+Home & Kitchen,P00009,3,0.0
+Home & Kitchen,P00009,4,0.0
+Home & Kitchen,P00009,5,17.7
+Home & Kitchen,P00009,6,0.0
+Home & Kitchen,P00009,7,0.0
+Home & Kitchen,P00009,8,0.0
+Home & Kitchen,P00009,9,18.5
+Home & Kitchen,P00009,10,0.0
+Home & Kitchen,P00009,11,0.0
+Home & Kitchen,P00009,12,0.0
+Home & Kitchen,P00010,1,13.2
+Home & Kitchen,P00010,2,0.0
+Home & Kitchen,P00010,3,0.0
+Home & Kitchen,P00010,4,0.0
+Home & Kitchen,P00010,5,12.7
+Home & Kitchen,P00010,6,0.0
+Home & Kitchen,P00010,7,0.0
+Home & Kitchen,P00010,8,0.0
+Home & Kitchen,P00010,9,13.3
+Home & Kitchen,P00010,10,0.0
+Home & Kitchen,P00010,11,0.0
+Home & Kitchen,P00010,12,0.0
+Home & Kitchen,P00011,1,14.6
+Home & Kitchen,P00011,2,0.0
+Home & Kitchen,P00011,3,0.0
+Home & Kitchen,P00011,4,0.0
+Home & Kitchen,P00011,5,14.0
+Home & Kitchen,P00011,6,0.0
+Home & Kitchen,P00011,7,0.0
+Home & Kitchen,P00011,8,0.0
+Home & Kitchen,P00011,9,14.7
+Home & Kitchen,P00011,10,0.0
+Home & Kitchen,P00011,11,0.0
+Home & Kitchen,P00011,12,0.0
+Home & Kitchen,P00012,1,16.1
+Home & Kitchen,P00012,2,0.0
+Home & Kitchen,P00012,3,0.0
+Home & Kitchen,P00012,4,0.0
+Home & Kitchen,P00012,5,15.5
+Home & Kitchen,P00012,6,0.0
+Home & Kitchen,P00012,7,0.0
+Home & Kitchen,P00012,8,0.0
+Home & Kitchen,P00012,9,16.2
+Home & Kitchen,P00012,10,0.0
+Home & Kitchen,P00012,11,0.0
+Home & Kitchen,P00012,12,0.0
+Home & Kitchen,P00013,1,15.6
+Home & Kitchen,P00013,2,0.0
+Home & Kitchen,P00013,3,0.0
+Home & Kitchen,P00013,4,0.0
+Home & Kitchen,P00013,5,15.0
+Home & Kitchen,P00013,6,0.0
+Home & Kitchen,P00013,7,0.0
+Home & Kitchen,P00013,8,0.0
+Home & Kitchen,P00013,9,15.7
+Home & Kitchen,P00013,10,0.0
+Home & Kitchen,P00013,11,0.0
+Home & Kitchen,P00013,12,0.0
+Home & Kitchen,P00014,1,12.1
+Home & Kitchen,P00014,2,0.0
+Home & Kitchen,P00014,3,0.0
+Home & Kitchen,P00014,4,0.0
+Home & Kitchen,P00014,5,11.6
+Home & Kitchen,P00014,6,0.0
+Home & Kitchen,P00014,7,0.0
+Home & Kitchen,P00014,8,0.0
+Home & Kitchen,P00014,9,12.2
+Home & Kitchen,P00014,10,0.0
+Home & Kitchen,P00014,11,0.0
+Home & Kitchen,P00014,12,0.0
+Home & Kitchen,P00015,1,14.6
+Home & Kitchen,P00015,2,0.0
+Home & Kitchen,P00015,3,0.0
+Home & Kitchen,P00015,4,0.0
+Home & Kitchen,P00015,5,14.0
+Home & Kitchen,P00015,6,0.0
+Home & Kitchen,P00015,7,0.0
+Home & Kitchen,P00015,8,0.0
+Home & Kitchen,P00015,9,14.7
+Home & Kitchen,P00015,10,0.0
+Home & Kitchen,P00015,11,0.0
+Home & Kitchen,P00015,12,0.0
+Home & Kitchen,P00016,1,15.9
+Home & Kitchen,P00016,2,0.0
+Home & Kitchen,P00016,3,0.0
+Home & Kitchen,P00016,4,0.0
+Home & Kitchen,P00016,5,15.3
+Home & Kitchen,P00016,6,0.0
+Home & Kitchen,P00016,7,0.0
+Home & Kitchen,P00016,8,0.0
+Home & Kitchen,P00016,9,16.0
+Home & Kitchen,P00016,10,0.0
+Home & Kitchen,P00016,11,0.0
+Home & Kitchen,P00016,12,0.0
+Home & Kitchen,P00017,1,13.9
+Home & Kitchen,P00017,2,0.0
+Home & Kitchen,P00017,3,0.0
+Home & Kitchen,P00017,4,0.0
+Home & Kitchen,P00017,5,13.3
+Home & Kitchen,P00017,6,0.0
+Home & Kitchen,P00017,7,0.0
+Home & Kitchen,P00017,8,0.0
+Home & Kitchen,P00017,9,13.9
+Home & Kitchen,P00017,10,0.0
+Home & Kitchen,P00017,11,0.0
+Home & Kitchen,P00017,12,0.0
+Home & Kitchen,P00018,1,15.6
+Home & Kitchen,P00018,2,0.0
+Home & Kitchen,P00018,3,0.0
+Home & Kitchen,P00018,4,0.0
+Home & Kitchen,P00018,5,15.0
+Home & Kitchen,P00018,6,0.0
+Home & Kitchen,P00018,7,0.0
+Home & Kitchen,P00018,8,0.0
+Home & Kitchen,P00018,9,15.7
+Home & Kitchen,P00018,10,0.0
+Home & Kitchen,P00018,11,0.0
+Home & Kitchen,P00018,12,0.0
+Home & Kitchen,P00019,1,16.9
+Home & Kitchen,P00019,2,0.0
+Home & Kitchen,P00019,3,0.0
+Home & Kitchen,P00019,4,0.0
+Home & Kitchen,P00019,5,16.2
+Home & Kitchen,P00019,6,0.0
+Home & Kitchen,P00019,7,0.0
+Home & Kitchen,P00019,8,0.0
+Home & Kitchen,P00019,9,16.9
+Home & Kitchen,P00019,10,0.0
+Home & Kitchen,P00019,11,0.0
+Home & Kitchen,P00019,12,0.0
+Home & Kitchen,P00020,1,15.0
+Home & Kitchen,P00020,2,0.0
+Home & Kitchen,P00020,3,0.0
+Home & Kitchen,P00020,4,0.0
+Home & Kitchen,P00020,5,14.4
+Home & Kitchen,P00020,6,0.0
+Home & Kitchen,P00020,7,0.0
+Home & Kitchen,P00020,8,0.0
+Home & Kitchen,P00020,9,15.0
+Home & Kitchen,P00020,10,0.0
+Home & Kitchen,P00020,11,0.0
+Home & Kitchen,P00020,12,0.0
+Home & Kitchen,P00021,1,13.3
+Home & Kitchen,P00021,2,0.0
+Home & Kitchen,P00021,3,0.0
+Home & Kitchen,P00021,4,0.0
+Home & Kitchen,P00021,5,12.7
+Home & Kitchen,P00021,6,0.0
+Home & Kitchen,P00021,7,0.0
+Home & Kitchen,P00021,8,0.0
+Home & Kitchen,P00021,9,13.3
+Home & Kitchen,P00021,10,0.0
+Home & Kitchen,P00021,11,0.0
+Home & Kitchen,P00021,12,0.0
+Home & Kitchen,P00022,1,15.5
+Home & Kitchen,P00022,2,0.0
+Home & Kitchen,P00022,3,0.0
+Home & Kitchen,P00022,4,0.0
+Home & Kitchen,P00022,5,14.9
+Home & Kitchen,P00022,6,0.0
+Home & Kitchen,P00022,7,0.0
+Home & Kitchen,P00022,8,0.0
+Home & Kitchen,P00022,9,15.6
+Home & Kitchen,P00022,10,0.0
+Home & Kitchen,P00022,11,0.0
+Home & Kitchen,P00022,12,0.0
+Home & Kitchen,P00023,1,14.2
+Home & Kitchen,P00023,2,0.0
+Home & Kitchen,P00023,3,0.0
+Home & Kitchen,P00023,4,0.0
+Home & Kitchen,P00023,5,13.6
+Home & Kitchen,P00023,6,0.0
+Home & Kitchen,P00023,7,0.0
+Home & Kitchen,P00023,8,0.0
+Home & Kitchen,P00023,9,14.2
+Home & Kitchen,P00023,10,0.0
+Home & Kitchen,P00023,11,0.0
+Home & Kitchen,P00023,12,0.0
+Home & Kitchen,P00024,1,15.0
+Home & Kitchen,P00024,2,0.0
+Home & Kitchen,P00024,3,0.0
+Home & Kitchen,P00024,4,0.0
+Home & Kitchen,P00024,5,14.4
+Home & Kitchen,P00024,6,0.0
+Home & Kitchen,P00024,7,0.0
+Home & Kitchen,P00024,8,0.0
+Home & Kitchen,P00024,9,15.1
+Home & Kitchen,P00024,10,0.0
+Home & Kitchen,P00024,11,0.0
+Home & Kitchen,P00024,12,0.0
+Home & Kitchen,P00025,1,13.5
+Home & Kitchen,P00025,2,0.0
+Home & Kitchen,P00025,3,0.0
+Home & Kitchen,P00025,4,0.0
+Home & Kitchen,P00025,5,13.0
+Home & Kitchen,P00025,6,0.0
+Home & Kitchen,P00025,7,0.0
+Home & Kitchen,P00025,8,0.0
+Home & Kitchen,P00025,9,13.6
+Home & Kitchen,P00025,10,0.0
+Home & Kitchen,P00025,11,0.0
+Home & Kitchen,P00025,12,0.0
+Home & Kitchen,P00026,1,14.7
+Home & Kitchen,P00026,2,0.0
+Home & Kitchen,P00026,3,0.0
+Home & Kitchen,P00026,4,0.0
+Home & Kitchen,P00026,5,14.1
+Home & Kitchen,P00026,6,0.0
+Home & Kitchen,P00026,7,0.0
+Home & Kitchen,P00026,8,0.0
+Home & Kitchen,P00026,9,14.8
+Home & Kitchen,P00026,10,0.0
+Home & Kitchen,P00026,11,0.0
+Home & Kitchen,P00026,12,0.0
+Home & Kitchen,P00027,1,16.7
+Home & Kitchen,P00027,2,0.0
+Home & Kitchen,P00027,3,0.0
+Home & Kitchen,P00027,4,0.0
+Home & Kitchen,P00027,5,16.0
+Home & Kitchen,P00027,6,0.0
+Home & Kitchen,P00027,7,0.0
+Home & Kitchen,P00027,8,0.0
+Home & Kitchen,P00027,9,16.8
+Home & Kitchen,P00027,10,0.0
+Home & Kitchen,P00027,11,0.0
+Home & Kitchen,P00027,12,0.0
+Home & Kitchen,P00028,1,13.8
+Home & Kitchen,P00028,2,0.0
+Home & Kitchen,P00028,3,0.0
+Home & Kitchen,P00028,4,0.0
+Home & Kitchen,P00028,5,13.2
+Home & Kitchen,P00028,6,0.0
+Home & Kitchen,P00028,7,0.0
+Home & Kitchen,P00028,8,0.0
+Home & Kitchen,P00028,9,13.8
+Home & Kitchen,P00028,10,0.0
+Home & Kitchen,P00028,11,0.0
+Home & Kitchen,P00028,12,0.0
+Home & Kitchen,P00029,1,13.0
+Home & Kitchen,P00029,2,0.0
+Home & Kitchen,P00029,3,0.0
+Home & Kitchen,P00029,4,0.0
+Home & Kitchen,P00029,5,12.5
+Home & Kitchen,P00029,6,0.0
+Home & Kitchen,P00029,7,0.0
+Home & Kitchen,P00029,8,0.0
+Home & Kitchen,P00029,9,13.0
+Home & Kitchen,P00029,10,0.0
+Home & Kitchen,P00029,11,0.0
+Home & Kitchen,P00029,12,0.0
+Home & Kitchen,P00030,1,13.2
+Home & Kitchen,P00030,2,0.0
+Home & Kitchen,P00030,3,0.0
+Home & Kitchen,P00030,4,0.0
+Home & Kitchen,P00030,5,12.7
+Home & Kitchen,P00030,6,0.0
+Home & Kitchen,P00030,7,0.0
+Home & Kitchen,P00030,8,0.0
+Home & Kitchen,P00030,9,13.3
+Home & Kitchen,P00030,10,0.0
+Home & Kitchen,P00030,11,0.0
+Home & Kitchen,P00030,12,0.0
+Home & Kitchen,P00031,1,17.3
+Home & Kitchen,P00031,2,0.0
+Home & Kitchen,P00031,3,0.0
+Home & Kitchen,P00031,4,0.0
+Home & Kitchen,P00031,5,16.6
+Home & Kitchen,P00031,6,0.0
+Home & Kitchen,P00031,7,0.0
+Home & Kitchen,P00031,8,0.0
+Home & Kitchen,P00031,9,17.4
+Home & Kitchen,P00031,10,0.0
+Home & Kitchen,P00031,11,0.0
+Home & Kitchen,P00031,12,0.0
+Home & Kitchen,P00032,1,17.4
+Home & Kitchen,P00032,2,0.0
+Home & Kitchen,P00032,3,0.0
+Home & Kitchen,P00032,4,0.0
+Home & Kitchen,P00032,5,16.7
+Home & Kitchen,P00032,6,0.0
+Home & Kitchen,P00032,7,0.0
+Home & Kitchen,P00032,8,0.0
+Home & Kitchen,P00032,9,17.4
+Home & Kitchen,P00032,10,0.0
+Home & Kitchen,P00032,11,0.0
+Home & Kitchen,P00032,12,0.0
+Home & Kitchen,P00033,1,15.9
+Home & Kitchen,P00033,2,0.0
+Home & Kitchen,P00033,3,0.0
+Home & Kitchen,P00033,4,0.0
+Home & Kitchen,P00033,5,15.2
+Home & Kitchen,P00033,6,0.0
+Home & Kitchen,P00033,7,0.0
+Home & Kitchen,P00033,8,0.0
+Home & Kitchen,P00033,9,15.9
+Home & Kitchen,P00033,10,0.0
+Home & Kitchen,P00033,11,0.0
+Home & Kitchen,P00033,12,0.0
+Home & Kitchen,P00034,1,17.4
+Home & Kitchen,P00034,2,0.0
+Home & Kitchen,P00034,3,0.0
+Home & Kitchen,P00034,4,0.0
+Home & Kitchen,P00034,5,16.7
+Home & Kitchen,P00034,6,0.0
+Home & Kitchen,P00034,7,0.0
+Home & Kitchen,P00034,8,0.0
+Home & Kitchen,P00034,9,17.4
+Home & Kitchen,P00034,10,0.0
+Home & Kitchen,P00034,11,0.0
+Home & Kitchen,P00034,12,0.0
+Home & Kitchen,P00035,1,15.3
+Home & Kitchen,P00035,2,0.0
+Home & Kitchen,P00035,3,0.0
+Home & Kitchen,P00035,4,0.0
+Home & Kitchen,P00035,5,14.7
+Home & Kitchen,P00035,6,0.0
+Home & Kitchen,P00035,7,0.0
+Home & Kitchen,P00035,8,0.0
+Home & Kitchen,P00035,9,15.3
+Home & Kitchen,P00035,10,0.0
+Home & Kitchen,P00035,11,0.0
+Home & Kitchen,P00035,12,0.0
+Home & Kitchen,P00036,1,15.0
+Home & Kitchen,P00036,2,0.0
+Home & Kitchen,P00036,3,0.0
+Home & Kitchen,P00036,4,0.0
+Home & Kitchen,P00036,5,14.4
+Home & Kitchen,P00036,6,0.0
+Home & Kitchen,P00036,7,0.0
+Home & Kitchen,P00036,8,0.0
+Home & Kitchen,P00036,9,15.1
+Home & Kitchen,P00036,10,0.0
+Home & Kitchen,P00036,11,0.0
+Home & Kitchen,P00036,12,0.0
+Home & Kitchen,P00037,1,17.0
+Home & Kitchen,P00037,2,0.0
+Home & Kitchen,P00037,3,0.0
+Home & Kitchen,P00037,4,0.0
+Home & Kitchen,P00037,5,16.3
+Home & Kitchen,P00037,6,0.0
+Home & Kitchen,P00037,7,0.0
+Home & Kitchen,P00037,8,0.0
+Home & Kitchen,P00037,9,17.0
+Home & Kitchen,P00037,10,0.0
+Home & Kitchen,P00037,11,0.0
+Home & Kitchen,P00037,12,0.0
+Home & Kitchen,P00038,1,15.2
+Home & Kitchen,P00038,2,0.0
+Home & Kitchen,P00038,3,0.0
+Home & Kitchen,P00038,4,0.0
+Home & Kitchen,P00038,5,14.6
+Home & Kitchen,P00038,6,0.0
+Home & Kitchen,P00038,7,0.0
+Home & Kitchen,P00038,8,0.0
+Home & Kitchen,P00038,9,15.3
+Home & Kitchen,P00038,10,0.0
+Home & Kitchen,P00038,11,0.0
+Home & Kitchen,P00038,12,0.0
+Home & Kitchen,P00039,1,16.8
+Home & Kitchen,P00039,2,0.0
+Home & Kitchen,P00039,3,0.0
+Home & Kitchen,P00039,4,0.0
+Home & Kitchen,P00039,5,16.1
+Home & Kitchen,P00039,6,0.0
+Home & Kitchen,P00039,7,0.0
+Home & Kitchen,P00039,8,0.0
+Home & Kitchen,P00039,9,16.9
+Home & Kitchen,P00039,10,0.0
+Home & Kitchen,P00039,11,0.0
+Home & Kitchen,P00039,12,0.0
+Home & Kitchen,P00040,1,16.2
+Home & Kitchen,P00040,2,0.0
+Home & Kitchen,P00040,3,0.0
+Home & Kitchen,P00040,4,0.0
+Home & Kitchen,P00040,5,15.5
+Home & Kitchen,P00040,6,0.0
+Home & Kitchen,P00040,7,0.0
+Home & Kitchen,P00040,8,0.0
+Home & Kitchen,P00040,9,16.2
+Home & Kitchen,P00040,10,0.0
+Home & Kitchen,P00040,11,0.0
+Home & Kitchen,P00040,12,0.0
+Home & Kitchen,P00041,1,13.4
+Home & Kitchen,P00041,2,0.0
+Home & Kitchen,P00041,3,0.0
+Home & Kitchen,P00041,4,0.0
+Home & Kitchen,P00041,5,12.8
+Home & Kitchen,P00041,6,0.0
+Home & Kitchen,P00041,7,0.0
+Home & Kitchen,P00041,8,0.0
+Home & Kitchen,P00041,9,13.4
+Home & Kitchen,P00041,10,0.0
+Home & Kitchen,P00041,11,0.0
+Home & Kitchen,P00041,12,0.0
+Home & Kitchen,P00042,1,14.3
+Home & Kitchen,P00042,2,0.0
+Home & Kitchen,P00042,3,0.0
+Home & Kitchen,P00042,4,0.0
+Home & Kitchen,P00042,5,13.7
+Home & Kitchen,P00042,6,0.0
+Home & Kitchen,P00042,7,0.0
+Home & Kitchen,P00042,8,0.0
+Home & Kitchen,P00042,9,14.3
+Home & Kitchen,P00042,10,0.0
+Home & Kitchen,P00042,11,0.0
+Home & Kitchen,P00042,12,0.0
+Home & Kitchen,P00043,1,14.1
+Home & Kitchen,P00043,2,0.0
+Home & Kitchen,P00043,3,0.0
+Home & Kitchen,P00043,4,0.0
+Home & Kitchen,P00043,5,13.5
+Home & Kitchen,P00043,6,0.0
+Home & Kitchen,P00043,7,0.0
+Home & Kitchen,P00043,8,0.0
+Home & Kitchen,P00043,9,14.1
+Home & Kitchen,P00043,10,0.0
+Home & Kitchen,P00043,11,0.0
+Home & Kitchen,P00043,12,0.0
+Home & Kitchen,P00044,1,12.2
+Home & Kitchen,P00044,2,0.0
+Home & Kitchen,P00044,3,0.0
+Home & Kitchen,P00044,4,0.0
+Home & Kitchen,P00044,5,11.7
+Home & Kitchen,P00044,6,0.0
+Home & Kitchen,P00044,7,0.0
+Home & Kitchen,P00044,8,0.0
+Home & Kitchen,P00044,9,12.2
+Home & Kitchen,P00044,10,0.0
+Home & Kitchen,P00044,11,0.0
+Home & Kitchen,P00044,12,0.0
+Home & Kitchen,P00045,1,15.8
+Home & Kitchen,P00045,2,0.0
+Home & Kitchen,P00045,3,0.0
+Home & Kitchen,P00045,4,0.0
+Home & Kitchen,P00045,5,15.2
+Home & Kitchen,P00045,6,0.0
+Home & Kitchen,P00045,7,0.0
+Home & Kitchen,P00045,8,0.0
+Home & Kitchen,P00045,9,15.9
+Home & Kitchen,P00045,10,0.0
+Home & Kitchen,P00045,11,0.0
+Home & Kitchen,P00045,12,0.0
+Home & Kitchen,P00046,1,14.1
+Home & Kitchen,P00046,2,0.0
+Home & Kitchen,P00046,3,0.0
+Home & Kitchen,P00046,4,0.0
+Home & Kitchen,P00046,5,13.5
+Home & Kitchen,P00046,6,0.0
+Home & Kitchen,P00046,7,0.0
+Home & Kitchen,P00046,8,0.0
+Home & Kitchen,P00046,9,14.1
+Home & Kitchen,P00046,10,0.0
+Home & Kitchen,P00046,11,0.0
+Home & Kitchen,P00046,12,0.0
+Home & Kitchen,P00047,1,17.0
+Home & Kitchen,P00047,2,0.0
+Home & Kitchen,P00047,3,0.0
+Home & Kitchen,P00047,4,0.0
+Home & Kitchen,P00047,5,16.3
+Home & Kitchen,P00047,6,0.0
+Home & Kitchen,P00047,7,0.0
+Home & Kitchen,P00047,8,0.0
+Home & Kitchen,P00047,9,17.1
+Home & Kitchen,P00047,10,0.0
+Home & Kitchen,P00047,11,0.0
+Home & Kitchen,P00047,12,0.0
+Home & Kitchen,P00048,1,14.7
+Home & Kitchen,P00048,2,0.0
+Home & Kitchen,P00048,3,0.0
+Home & Kitchen,P00048,4,0.0
+Home & Kitchen,P00048,5,14.1
+Home & Kitchen,P00048,6,0.0
+Home & Kitchen,P00048,7,0.0
+Home & Kitchen,P00048,8,0.0
+Home & Kitchen,P00048,9,14.8
+Home & Kitchen,P00048,10,0.0
+Home & Kitchen,P00048,11,0.0
+Home & Kitchen,P00048,12,0.0
+Home & Kitchen,P00049,1,13.7
+Home & Kitchen,P00049,2,0.0
+Home & Kitchen,P00049,3,0.0
+Home & Kitchen,P00049,4,0.0
+Home & Kitchen,P00049,5,13.2
+Home & Kitchen,P00049,6,0.0
+Home & Kitchen,P00049,7,0.0
+Home & Kitchen,P00049,8,0.0
+Home & Kitchen,P00049,9,13.8
+Home & Kitchen,P00049,10,0.0
+Home & Kitchen,P00049,11,0.0
+Home & Kitchen,P00049,12,0.0
+Home & Kitchen,P00050,1,13.1
+Home & Kitchen,P00050,2,0.0
+Home & Kitchen,P00050,3,0.0
+Home & Kitchen,P00050,4,0.0
+Home & Kitchen,P00050,5,12.6
+Home & Kitchen,P00050,6,0.0
+Home & Kitchen,P00050,7,0.0
+Home & Kitchen,P00050,8,0.0
+Home & Kitchen,P00050,9,13.1
+Home & Kitchen,P00050,10,0.0
+Home & Kitchen,P00050,11,0.0
+Home & Kitchen,P00050,12,0.0
+Sports & Outdoors,P00001,1,13.8
+Sports & Outdoors,P00001,2,0.0
+Sports & Outdoors,P00001,3,0.0
+Sports & Outdoors,P00001,4,0.0
+Sports & Outdoors,P00001,5,13.1
+Sports & Outdoors,P00001,6,0.0
+Sports & Outdoors,P00001,7,0.0
+Sports & Outdoors,P00001,8,0.0
+Sports & Outdoors,P00001,9,13.0
+Sports & Outdoors,P00001,10,0.0
+Sports & Outdoors,P00001,11,0.0
+Sports & Outdoors,P00001,12,0.0
+Sports & Outdoors,P00002,1,15.6
+Sports & Outdoors,P00002,2,0.0
+Sports & Outdoors,P00002,3,0.0
+Sports & Outdoors,P00002,4,0.0
+Sports & Outdoors,P00002,5,14.8
+Sports & Outdoors,P00002,6,0.0
+Sports & Outdoors,P00002,7,0.0
+Sports & Outdoors,P00002,8,0.0
+Sports & Outdoors,P00002,9,14.7
+Sports & Outdoors,P00002,10,0.0
+Sports & Outdoors,P00002,11,0.0
+Sports & Outdoors,P00002,12,0.0
+Sports & Outdoors,P00003,1,16.3
+Sports & Outdoors,P00003,2,0.0
+Sports & Outdoors,P00003,3,0.0
+Sports & Outdoors,P00003,4,0.0
+Sports & Outdoors,P00003,5,15.4
+Sports & Outdoors,P00003,6,0.0
+Sports & Outdoors,P00003,7,0.0
+Sports & Outdoors,P00003,8,0.0
+Sports & Outdoors,P00003,9,15.3
+Sports & Outdoors,P00003,10,0.0
+Sports & Outdoors,P00003,11,0.0
+Sports & Outdoors,P00003,12,0.0
+Sports & Outdoors,P00004,1,16.1
+Sports & Outdoors,P00004,2,0.0
+Sports & Outdoors,P00004,3,0.0
+Sports & Outdoors,P00004,4,0.0
+Sports & Outdoors,P00004,5,15.3
+Sports & Outdoors,P00004,6,0.0
+Sports & Outdoors,P00004,7,0.0
+Sports & Outdoors,P00004,8,0.0
+Sports & Outdoors,P00004,9,15.2
+Sports & Outdoors,P00004,10,0.0
+Sports & Outdoors,P00004,11,0.0
+Sports & Outdoors,P00004,12,0.0
+Sports & Outdoors,P00005,1,17.8
+Sports & Outdoors,P00005,2,0.0
+Sports & Outdoors,P00005,3,0.0
+Sports & Outdoors,P00005,4,0.0
+Sports & Outdoors,P00005,5,16.9
+Sports & Outdoors,P00005,6,0.0
+Sports & Outdoors,P00005,7,0.0
+Sports & Outdoors,P00005,8,0.0
+Sports & Outdoors,P00005,9,16.8
+Sports & Outdoors,P00005,10,0.0
+Sports & Outdoors,P00005,11,0.0
+Sports & Outdoors,P00005,12,0.0
+Sports & Outdoors,P00006,1,18.7
+Sports & Outdoors,P00006,2,0.0
+Sports & Outdoors,P00006,3,0.0
+Sports & Outdoors,P00006,4,0.0
+Sports & Outdoors,P00006,5,17.8
+Sports & Outdoors,P00006,6,0.0
+Sports & Outdoors,P00006,7,0.0
+Sports & Outdoors,P00006,8,0.0
+Sports & Outdoors,P00006,9,17.6
+Sports & Outdoors,P00006,10,0.0
+Sports & Outdoors,P00006,11,0.0
+Sports & Outdoors,P00006,12,0.0
+Sports & Outdoors,P00007,1,17.1
+Sports & Outdoors,P00007,2,0.0
+Sports & Outdoors,P00007,3,0.0
+Sports & Outdoors,P00007,4,0.0
+Sports & Outdoors,P00007,5,16.2
+Sports & Outdoors,P00007,6,0.0
+Sports & Outdoors,P00007,7,0.0
+Sports & Outdoors,P00007,8,0.0
+Sports & Outdoors,P00007,9,16.0
+Sports & Outdoors,P00007,10,0.0
+Sports & Outdoors,P00007,11,0.0
+Sports & Outdoors,P00007,12,0.0
+Sports & Outdoors,P00008,1,15.8
+Sports & Outdoors,P00008,2,0.0
+Sports & Outdoors,P00008,3,0.0
+Sports & Outdoors,P00008,4,0.0
+Sports & Outdoors,P00008,5,15.0
+Sports & Outdoors,P00008,6,0.0
+Sports & Outdoors,P00008,7,0.0
+Sports & Outdoors,P00008,8,0.0
+Sports & Outdoors,P00008,9,14.9
+Sports & Outdoors,P00008,10,0.0
+Sports & Outdoors,P00008,11,0.0
+Sports & Outdoors,P00008,12,0.0
+Sports & Outdoors,P00009,1,14.8
+Sports & Outdoors,P00009,2,0.0
+Sports & Outdoors,P00009,3,0.0
+Sports & Outdoors,P00009,4,0.0
+Sports & Outdoors,P00009,5,14.0
+Sports & Outdoors,P00009,6,0.0
+Sports & Outdoors,P00009,7,0.0
+Sports & Outdoors,P00009,8,0.0
+Sports & Outdoors,P00009,9,13.9
+Sports & Outdoors,P00009,10,0.0
+Sports & Outdoors,P00009,11,0.0
+Sports & Outdoors,P00009,12,0.0
+Sports & Outdoors,P00010,1,16.4
+Sports & Outdoors,P00010,2,0.0
+Sports & Outdoors,P00010,3,0.0
+Sports & Outdoors,P00010,4,0.0
+Sports & Outdoors,P00010,5,15.5
+Sports & Outdoors,P00010,6,0.0
+Sports & Outdoors,P00010,7,0.0
+Sports & Outdoors,P00010,8,0.0
+Sports & Outdoors,P00010,9,15.4
+Sports & Outdoors,P00010,10,0.0
+Sports & Outdoors,P00010,11,0.0
+Sports & Outdoors,P00010,12,0.0
+Sports & Outdoors,P00011,1,15.6
+Sports & Outdoors,P00011,2,0.0
+Sports & Outdoors,P00011,3,0.0
+Sports & Outdoors,P00011,4,0.0
+Sports & Outdoors,P00011,5,14.8
+Sports & Outdoors,P00011,6,0.0
+Sports & Outdoors,P00011,7,0.0
+Sports & Outdoors,P00011,8,0.0
+Sports & Outdoors,P00011,9,14.7
+Sports & Outdoors,P00011,10,0.0
+Sports & Outdoors,P00011,11,0.0
+Sports & Outdoors,P00011,12,0.0
+Sports & Outdoors,P00012,1,14.8
+Sports & Outdoors,P00012,2,0.0
+Sports & Outdoors,P00012,3,0.0
+Sports & Outdoors,P00012,4,0.0
+Sports & Outdoors,P00012,5,14.0
+Sports & Outdoors,P00012,6,0.0
+Sports & Outdoors,P00012,7,0.0
+Sports & Outdoors,P00012,8,0.0
+Sports & Outdoors,P00012,9,13.9
+Sports & Outdoors,P00012,10,0.0
+Sports & Outdoors,P00012,11,0.0
+Sports & Outdoors,P00012,12,0.0
+Sports & Outdoors,P00013,1,15.3
+Sports & Outdoors,P00013,2,0.0
+Sports & Outdoors,P00013,3,0.0
+Sports & Outdoors,P00013,4,0.0
+Sports & Outdoors,P00013,5,14.5
+Sports & Outdoors,P00013,6,0.0
+Sports & Outdoors,P00013,7,0.0
+Sports & Outdoors,P00013,8,0.0
+Sports & Outdoors,P00013,9,14.4
+Sports & Outdoors,P00013,10,0.0
+Sports & Outdoors,P00013,11,0.0
+Sports & Outdoors,P00013,12,0.0
+Sports & Outdoors,P00014,1,13.7
+Sports & Outdoors,P00014,2,0.0
+Sports & Outdoors,P00014,3,0.0
+Sports & Outdoors,P00014,4,0.0
+Sports & Outdoors,P00014,5,13.0
+Sports & Outdoors,P00014,6,0.0
+Sports & Outdoors,P00014,7,0.0
+Sports & Outdoors,P00014,8,0.0
+Sports & Outdoors,P00014,9,12.9
+Sports & Outdoors,P00014,10,0.0
+Sports & Outdoors,P00014,11,0.0
+Sports & Outdoors,P00014,12,0.0
+Sports & Outdoors,P00015,1,16.4
+Sports & Outdoors,P00015,2,0.0
+Sports & Outdoors,P00015,3,0.0
+Sports & Outdoors,P00015,4,0.0
+Sports & Outdoors,P00015,5,15.6
+Sports & Outdoors,P00015,6,0.0
+Sports & Outdoors,P00015,7,0.0
+Sports & Outdoors,P00015,8,0.0
+Sports & Outdoors,P00015,9,15.4
+Sports & Outdoors,P00015,10,0.0
+Sports & Outdoors,P00015,11,0.0
+Sports & Outdoors,P00015,12,0.0
+Sports & Outdoors,P00016,1,16.8
+Sports & Outdoors,P00016,2,0.0
+Sports & Outdoors,P00016,3,0.0
+Sports & Outdoors,P00016,4,0.0
+Sports & Outdoors,P00016,5,15.9
+Sports & Outdoors,P00016,6,0.0
+Sports & Outdoors,P00016,7,0.0
+Sports & Outdoors,P00016,8,0.0
+Sports & Outdoors,P00016,9,15.8
+Sports & Outdoors,P00016,10,0.0
+Sports & Outdoors,P00016,11,0.0
+Sports & Outdoors,P00016,12,0.0
+Sports & Outdoors,P00017,1,16.9
+Sports & Outdoors,P00017,2,0.0
+Sports & Outdoors,P00017,3,0.0
+Sports & Outdoors,P00017,4,0.0
+Sports & Outdoors,P00017,5,16.0
+Sports & Outdoors,P00017,6,0.0
+Sports & Outdoors,P00017,7,0.0
+Sports & Outdoors,P00017,8,0.0
+Sports & Outdoors,P00017,9,15.9
+Sports & Outdoors,P00017,10,0.0
+Sports & Outdoors,P00017,11,0.0
+Sports & Outdoors,P00017,12,0.0
+Sports & Outdoors,P00018,1,16.6
+Sports & Outdoors,P00018,2,0.0
+Sports & Outdoors,P00018,3,0.0
+Sports & Outdoors,P00018,4,0.0
+Sports & Outdoors,P00018,5,15.7
+Sports & Outdoors,P00018,6,0.0
+Sports & Outdoors,P00018,7,0.0
+Sports & Outdoors,P00018,8,0.0
+Sports & Outdoors,P00018,9,15.6
+Sports & Outdoors,P00018,10,0.0
+Sports & Outdoors,P00018,11,0.0
+Sports & Outdoors,P00018,12,0.0
+Sports & Outdoors,P00019,1,17.7
+Sports & Outdoors,P00019,2,0.0
+Sports & Outdoors,P00019,3,0.0
+Sports & Outdoors,P00019,4,0.0
+Sports & Outdoors,P00019,5,16.7
+Sports & Outdoors,P00019,6,0.0
+Sports & Outdoors,P00019,7,0.0
+Sports & Outdoors,P00019,8,0.0
+Sports & Outdoors,P00019,9,16.6
+Sports & Outdoors,P00019,10,0.0
+Sports & Outdoors,P00019,11,0.0
+Sports & Outdoors,P00019,12,0.0
+Sports & Outdoors,P00020,1,14.9
+Sports & Outdoors,P00020,2,0.0
+Sports & Outdoors,P00020,3,0.0
+Sports & Outdoors,P00020,4,0.0
+Sports & Outdoors,P00020,5,14.1
+Sports & Outdoors,P00020,6,0.0
+Sports & Outdoors,P00020,7,0.0
+Sports & Outdoors,P00020,8,0.0
+Sports & Outdoors,P00020,9,14.0
+Sports & Outdoors,P00020,10,0.0
+Sports & Outdoors,P00020,11,0.0
+Sports & Outdoors,P00020,12,0.0
+Sports & Outdoors,P00021,1,16.6
+Sports & Outdoors,P00021,2,0.0
+Sports & Outdoors,P00021,3,0.0
+Sports & Outdoors,P00021,4,0.0
+Sports & Outdoors,P00021,5,15.7
+Sports & Outdoors,P00021,6,0.0
+Sports & Outdoors,P00021,7,0.0
+Sports & Outdoors,P00021,8,0.0
+Sports & Outdoors,P00021,9,15.6
+Sports & Outdoors,P00021,10,0.0
+Sports & Outdoors,P00021,11,0.0
+Sports & Outdoors,P00021,12,0.0
+Sports & Outdoors,P00022,1,16.7
+Sports & Outdoors,P00022,2,0.0
+Sports & Outdoors,P00022,3,0.0
+Sports & Outdoors,P00022,4,0.0
+Sports & Outdoors,P00022,5,15.8
+Sports & Outdoors,P00022,6,0.0
+Sports & Outdoors,P00022,7,0.0
+Sports & Outdoors,P00022,8,0.0
+Sports & Outdoors,P00022,9,15.7
+Sports & Outdoors,P00022,10,0.0
+Sports & Outdoors,P00022,11,0.0
+Sports & Outdoors,P00022,12,0.0
+Sports & Outdoors,P00023,1,16.0
+Sports & Outdoors,P00023,2,0.0
+Sports & Outdoors,P00023,3,0.0
+Sports & Outdoors,P00023,4,0.0
+Sports & Outdoors,P00023,5,15.2
+Sports & Outdoors,P00023,6,0.0
+Sports & Outdoors,P00023,7,0.0
+Sports & Outdoors,P00023,8,0.0
+Sports & Outdoors,P00023,9,15.1
+Sports & Outdoors,P00023,10,0.0
+Sports & Outdoors,P00023,11,0.0
+Sports & Outdoors,P00023,12,0.0
+Sports & Outdoors,P00024,1,14.6
+Sports & Outdoors,P00024,2,0.0
+Sports & Outdoors,P00024,3,0.0
+Sports & Outdoors,P00024,4,0.0
+Sports & Outdoors,P00024,5,13.8
+Sports & Outdoors,P00024,6,0.0
+Sports & Outdoors,P00024,7,0.0
+Sports & Outdoors,P00024,8,0.0
+Sports & Outdoors,P00024,9,13.7
+Sports & Outdoors,P00024,10,0.0
+Sports & Outdoors,P00024,11,0.0
+Sports & Outdoors,P00024,12,0.0
+Sports & Outdoors,P00025,1,17.7
+Sports & Outdoors,P00025,2,0.0
+Sports & Outdoors,P00025,3,0.0
+Sports & Outdoors,P00025,4,0.0
+Sports & Outdoors,P00025,5,16.8
+Sports & Outdoors,P00025,6,0.0
+Sports & Outdoors,P00025,7,0.0
+Sports & Outdoors,P00025,8,0.0
+Sports & Outdoors,P00025,9,16.7
+Sports & Outdoors,P00025,10,0.0
+Sports & Outdoors,P00025,11,0.0
+Sports & Outdoors,P00025,12,0.0
+Sports & Outdoors,P00026,1,16.0
+Sports & Outdoors,P00026,2,0.0
+Sports & Outdoors,P00026,3,0.0
+Sports & Outdoors,P00026,4,0.0
+Sports & Outdoors,P00026,5,15.1
+Sports & Outdoors,P00026,6,0.0
+Sports & Outdoors,P00026,7,0.0
+Sports & Outdoors,P00026,8,0.0
+Sports & Outdoors,P00026,9,15.0
+Sports & Outdoors,P00026,10,0.0
+Sports & Outdoors,P00026,11,0.0
+Sports & Outdoors,P00026,12,0.0
+Sports & Outdoors,P00027,1,15.9
+Sports & Outdoors,P00027,2,0.0
+Sports & Outdoors,P00027,3,0.0
+Sports & Outdoors,P00027,4,0.0
+Sports & Outdoors,P00027,5,15.0
+Sports & Outdoors,P00027,6,0.0
+Sports & Outdoors,P00027,7,0.0
+Sports & Outdoors,P00027,8,0.0
+Sports & Outdoors,P00027,9,14.9
+Sports & Outdoors,P00027,10,0.0
+Sports & Outdoors,P00027,11,0.0
+Sports & Outdoors,P00027,12,0.0
+Sports & Outdoors,P00028,1,18.6
+Sports & Outdoors,P00028,2,0.0
+Sports & Outdoors,P00028,3,0.0
+Sports & Outdoors,P00028,4,0.0
+Sports & Outdoors,P00028,5,17.6
+Sports & Outdoors,P00028,6,0.0
+Sports & Outdoors,P00028,7,0.0
+Sports & Outdoors,P00028,8,0.0
+Sports & Outdoors,P00028,9,17.5
+Sports & Outdoors,P00028,10,0.0
+Sports & Outdoors,P00028,11,0.0
+Sports & Outdoors,P00028,12,0.0
+Sports & Outdoors,P00029,1,17.2
+Sports & Outdoors,P00029,2,0.0
+Sports & Outdoors,P00029,3,0.0
+Sports & Outdoors,P00029,4,0.0
+Sports & Outdoors,P00029,5,16.2
+Sports & Outdoors,P00029,6,0.0
+Sports & Outdoors,P00029,7,0.0
+Sports & Outdoors,P00029,8,0.0
+Sports & Outdoors,P00029,9,16.1
+Sports & Outdoors,P00029,10,0.0
+Sports & Outdoors,P00029,11,0.0
+Sports & Outdoors,P00029,12,0.0
+Sports & Outdoors,P00030,1,15.4
+Sports & Outdoors,P00030,2,0.0
+Sports & Outdoors,P00030,3,0.0
+Sports & Outdoors,P00030,4,0.0
+Sports & Outdoors,P00030,5,14.6
+Sports & Outdoors,P00030,6,0.0
+Sports & Outdoors,P00030,7,0.0
+Sports & Outdoors,P00030,8,0.0
+Sports & Outdoors,P00030,9,14.5
+Sports & Outdoors,P00030,10,0.0
+Sports & Outdoors,P00030,11,0.0
+Sports & Outdoors,P00030,12,0.0
+Sports & Outdoors,P00031,1,13.9
+Sports & Outdoors,P00031,2,0.0
+Sports & Outdoors,P00031,3,0.0
+Sports & Outdoors,P00031,4,0.0
+Sports & Outdoors,P00031,5,13.2
+Sports & Outdoors,P00031,6,0.0
+Sports & Outdoors,P00031,7,0.0
+Sports & Outdoors,P00031,8,0.0
+Sports & Outdoors,P00031,9,13.1
+Sports & Outdoors,P00031,10,0.0
+Sports & Outdoors,P00031,11,0.0
+Sports & Outdoors,P00031,12,0.0
+Sports & Outdoors,P00032,1,15.1
+Sports & Outdoors,P00032,2,0.0
+Sports & Outdoors,P00032,3,0.0
+Sports & Outdoors,P00032,4,0.0
+Sports & Outdoors,P00032,5,14.3
+Sports & Outdoors,P00032,6,0.0
+Sports & Outdoors,P00032,7,0.0
+Sports & Outdoors,P00032,8,0.0
+Sports & Outdoors,P00032,9,14.2
+Sports & Outdoors,P00032,10,0.0
+Sports & Outdoors,P00032,11,0.0
+Sports & Outdoors,P00032,12,0.0
+Sports & Outdoors,P00033,1,13.1
+Sports & Outdoors,P00033,2,0.0
+Sports & Outdoors,P00033,3,0.0
+Sports & Outdoors,P00033,4,0.0
+Sports & Outdoors,P00033,5,12.4
+Sports & Outdoors,P00033,6,0.0
+Sports & Outdoors,P00033,7,0.0
+Sports & Outdoors,P00033,8,0.0
+Sports & Outdoors,P00033,9,12.3
+Sports & Outdoors,P00033,10,0.0
+Sports & Outdoors,P00033,11,0.0
+Sports & Outdoors,P00033,12,0.0
+Sports & Outdoors,P00034,1,17.2
+Sports & Outdoors,P00034,2,0.0
+Sports & Outdoors,P00034,3,0.0
+Sports & Outdoors,P00034,4,0.0
+Sports & Outdoors,P00034,5,16.3
+Sports & Outdoors,P00034,6,0.0
+Sports & Outdoors,P00034,7,0.0
+Sports & Outdoors,P00034,8,0.0
+Sports & Outdoors,P00034,9,16.2
+Sports & Outdoors,P00034,10,0.0
+Sports & Outdoors,P00034,11,0.0
+Sports & Outdoors,P00034,12,0.0
+Sports & Outdoors,P00035,1,15.9
+Sports & Outdoors,P00035,2,0.0
+Sports & Outdoors,P00035,3,0.0
+Sports & Outdoors,P00035,4,0.0
+Sports & Outdoors,P00035,5,15.1
+Sports & Outdoors,P00035,6,0.0
+Sports & Outdoors,P00035,7,0.0
+Sports & Outdoors,P00035,8,0.0
+Sports & Outdoors,P00035,9,14.9
+Sports & Outdoors,P00035,10,0.0
+Sports & Outdoors,P00035,11,0.0
+Sports & Outdoors,P00035,12,0.0
+Sports & Outdoors,P00036,1,16.8
+Sports & Outdoors,P00036,2,0.0
+Sports & Outdoors,P00036,3,0.0
+Sports & Outdoors,P00036,4,0.0
+Sports & Outdoors,P00036,5,16.0
+Sports & Outdoors,P00036,6,0.0
+Sports & Outdoors,P00036,7,0.0
+Sports & Outdoors,P00036,8,0.0
+Sports & Outdoors,P00036,9,15.8
+Sports & Outdoors,P00036,10,0.0
+Sports & Outdoors,P00036,11,0.0
+Sports & Outdoors,P00036,12,0.0
+Sports & Outdoors,P00037,1,15.7
+Sports & Outdoors,P00037,2,0.0
+Sports & Outdoors,P00037,3,0.0
+Sports & Outdoors,P00037,4,0.0
+Sports & Outdoors,P00037,5,14.8
+Sports & Outdoors,P00037,6,0.0
+Sports & Outdoors,P00037,7,0.0
+Sports & Outdoors,P00037,8,0.0
+Sports & Outdoors,P00037,9,14.7
+Sports & Outdoors,P00037,10,0.0
+Sports & Outdoors,P00037,11,0.0
+Sports & Outdoors,P00037,12,0.0
+Sports & Outdoors,P00038,1,17.3
+Sports & Outdoors,P00038,2,0.0
+Sports & Outdoors,P00038,3,0.0
+Sports & Outdoors,P00038,4,0.0
+Sports & Outdoors,P00038,5,16.4
+Sports & Outdoors,P00038,6,0.0
+Sports & Outdoors,P00038,7,0.0
+Sports & Outdoors,P00038,8,0.0
+Sports & Outdoors,P00038,9,16.3
+Sports & Outdoors,P00038,10,0.0
+Sports & Outdoors,P00038,11,0.0
+Sports & Outdoors,P00038,12,0.0
+Sports & Outdoors,P00039,1,17.3
+Sports & Outdoors,P00039,2,0.0
+Sports & Outdoors,P00039,3,0.0
+Sports & Outdoors,P00039,4,0.0
+Sports & Outdoors,P00039,5,16.4
+Sports & Outdoors,P00039,6,0.0
+Sports & Outdoors,P00039,7,0.0
+Sports & Outdoors,P00039,8,0.0
+Sports & Outdoors,P00039,9,16.2
+Sports & Outdoors,P00039,10,0.0
+Sports & Outdoors,P00039,11,0.0
+Sports & Outdoors,P00039,12,0.0
+Sports & Outdoors,P00040,1,15.2
+Sports & Outdoors,P00040,2,0.0
+Sports & Outdoors,P00040,3,0.0
+Sports & Outdoors,P00040,4,0.0
+Sports & Outdoors,P00040,5,14.4
+Sports & Outdoors,P00040,6,0.0
+Sports & Outdoors,P00040,7,0.0
+Sports & Outdoors,P00040,8,0.0
+Sports & Outdoors,P00040,9,14.3
+Sports & Outdoors,P00040,10,0.0
+Sports & Outdoors,P00040,11,0.0
+Sports & Outdoors,P00040,12,0.0
+Sports & Outdoors,P00041,1,15.4
+Sports & Outdoors,P00041,2,0.0
+Sports & Outdoors,P00041,3,0.0
+Sports & Outdoors,P00041,4,0.0
+Sports & Outdoors,P00041,5,14.6
+Sports & Outdoors,P00041,6,0.0
+Sports & Outdoors,P00041,7,0.0
+Sports & Outdoors,P00041,8,0.0
+Sports & Outdoors,P00041,9,14.5
+Sports & Outdoors,P00041,10,0.0
+Sports & Outdoors,P00041,11,0.0
+Sports & Outdoors,P00041,12,0.0
+Sports & Outdoors,P00042,1,15.2
+Sports & Outdoors,P00042,2,0.0
+Sports & Outdoors,P00042,3,0.0
+Sports & Outdoors,P00042,4,0.0
+Sports & Outdoors,P00042,5,14.4
+Sports & Outdoors,P00042,6,0.0
+Sports & Outdoors,P00042,7,0.0
+Sports & Outdoors,P00042,8,0.0
+Sports & Outdoors,P00042,9,14.3
+Sports & Outdoors,P00042,10,0.0
+Sports & Outdoors,P00042,11,0.0
+Sports & Outdoors,P00042,12,0.0
+Sports & Outdoors,P00043,1,17.3
+Sports & Outdoors,P00043,2,0.0
+Sports & Outdoors,P00043,3,0.0
+Sports & Outdoors,P00043,4,0.0
+Sports & Outdoors,P00043,5,16.4
+Sports & Outdoors,P00043,6,0.0
+Sports & Outdoors,P00043,7,0.0
+Sports & Outdoors,P00043,8,0.0
+Sports & Outdoors,P00043,9,16.3
+Sports & Outdoors,P00043,10,0.0
+Sports & Outdoors,P00043,11,0.0
+Sports & Outdoors,P00043,12,0.0
+Sports & Outdoors,P00044,1,14.4
+Sports & Outdoors,P00044,2,0.0
+Sports & Outdoors,P00044,3,0.0
+Sports & Outdoors,P00044,4,0.0
+Sports & Outdoors,P00044,5,13.6
+Sports & Outdoors,P00044,6,0.0
+Sports & Outdoors,P00044,7,0.0
+Sports & Outdoors,P00044,8,0.0
+Sports & Outdoors,P00044,9,13.5
+Sports & Outdoors,P00044,10,0.0
+Sports & Outdoors,P00044,11,0.0
+Sports & Outdoors,P00044,12,0.0
+Sports & Outdoors,P00045,1,14.5
+Sports & Outdoors,P00045,2,0.0
+Sports & Outdoors,P00045,3,0.0
+Sports & Outdoors,P00045,4,0.0
+Sports & Outdoors,P00045,5,13.7
+Sports & Outdoors,P00045,6,0.0
+Sports & Outdoors,P00045,7,0.0
+Sports & Outdoors,P00045,8,0.0
+Sports & Outdoors,P00045,9,13.6
+Sports & Outdoors,P00045,10,0.0
+Sports & Outdoors,P00045,11,0.0
+Sports & Outdoors,P00045,12,0.0
+Sports & Outdoors,P00046,1,15.3
+Sports & Outdoors,P00046,2,0.0
+Sports & Outdoors,P00046,3,0.0
+Sports & Outdoors,P00046,4,0.0
+Sports & Outdoors,P00046,5,14.5
+Sports & Outdoors,P00046,6,0.0
+Sports & Outdoors,P00046,7,0.0
+Sports & Outdoors,P00046,8,0.0
+Sports & Outdoors,P00046,9,14.4
+Sports & Outdoors,P00046,10,0.0
+Sports & Outdoors,P00046,11,0.0
+Sports & Outdoors,P00046,12,0.0
+Sports & Outdoors,P00047,1,15.8
+Sports & Outdoors,P00047,2,0.0
+Sports & Outdoors,P00047,3,0.0
+Sports & Outdoors,P00047,4,0.0
+Sports & Outdoors,P00047,5,15.0
+Sports & Outdoors,P00047,6,0.0
+Sports & Outdoors,P00047,7,0.0
+Sports & Outdoors,P00047,8,0.0
+Sports & Outdoors,P00047,9,14.9
+Sports & Outdoors,P00047,10,0.0
+Sports & Outdoors,P00047,11,0.0
+Sports & Outdoors,P00047,12,0.0
+Sports & Outdoors,P00048,1,16.1
+Sports & Outdoors,P00048,2,0.0
+Sports & Outdoors,P00048,3,0.0
+Sports & Outdoors,P00048,4,0.0
+Sports & Outdoors,P00048,5,15.3
+Sports & Outdoors,P00048,6,0.0
+Sports & Outdoors,P00048,7,0.0
+Sports & Outdoors,P00048,8,0.0
+Sports & Outdoors,P00048,9,15.2
+Sports & Outdoors,P00048,10,0.0
+Sports & Outdoors,P00048,11,0.0
+Sports & Outdoors,P00048,12,0.0
+Sports & Outdoors,P00049,1,14.7
+Sports & Outdoors,P00049,2,0.0
+Sports & Outdoors,P00049,3,0.0
+Sports & Outdoors,P00049,4,0.0
+Sports & Outdoors,P00049,5,13.9
+Sports & Outdoors,P00049,6,0.0
+Sports & Outdoors,P00049,7,0.0
+Sports & Outdoors,P00049,8,0.0
+Sports & Outdoors,P00049,9,13.8
+Sports & Outdoors,P00049,10,0.0
+Sports & Outdoors,P00049,11,0.0
+Sports & Outdoors,P00049,12,0.0
+Sports & Outdoors,P00050,1,15.0
+Sports & Outdoors,P00050,2,0.0
+Sports & Outdoors,P00050,3,0.0
+Sports & Outdoors,P00050,4,0.0
+Sports & Outdoors,P00050,5,14.2
+Sports & Outdoors,P00050,6,0.0
+Sports & Outdoors,P00050,7,0.0
+Sports & Outdoors,P00050,8,0.0
+Sports & Outdoors,P00050,9,14.1
+Sports & Outdoors,P00050,10,0.0
+Sports & Outdoors,P00050,11,0.0
+Sports & Outdoors,P00050,12,0.0
+Toys & Games,P00001,1,15.2
+Toys & Games,P00001,2,0.0
+Toys & Games,P00001,3,0.0
+Toys & Games,P00001,4,0.0
+Toys & Games,P00001,5,15.6
+Toys & Games,P00001,6,0.0
+Toys & Games,P00001,7,0.0
+Toys & Games,P00001,8,0.0
+Toys & Games,P00001,9,14.2
+Toys & Games,P00001,10,0.0
+Toys & Games,P00001,11,0.0
+Toys & Games,P00001,12,0.0
+Toys & Games,P00002,1,13.4
+Toys & Games,P00002,2,0.0
+Toys & Games,P00002,3,0.0
+Toys & Games,P00002,4,0.0
+Toys & Games,P00002,5,13.8
+Toys & Games,P00002,6,0.0
+Toys & Games,P00002,7,0.0
+Toys & Games,P00002,8,0.0
+Toys & Games,P00002,9,12.6
+Toys & Games,P00002,10,0.0
+Toys & Games,P00002,11,0.0
+Toys & Games,P00002,12,0.0
+Toys & Games,P00003,1,15.1
+Toys & Games,P00003,2,0.0
+Toys & Games,P00003,3,0.0
+Toys & Games,P00003,4,0.0
+Toys & Games,P00003,5,15.5
+Toys & Games,P00003,6,0.0
+Toys & Games,P00003,7,0.0
+Toys & Games,P00003,8,0.0
+Toys & Games,P00003,9,14.2
+Toys & Games,P00003,10,0.0
+Toys & Games,P00003,11,0.0
+Toys & Games,P00003,12,0.0
+Toys & Games,P00004,1,15.9
+Toys & Games,P00004,2,0.0
+Toys & Games,P00004,3,0.0
+Toys & Games,P00004,4,0.0
+Toys & Games,P00004,5,16.4
+Toys & Games,P00004,6,0.0
+Toys & Games,P00004,7,0.0
+Toys & Games,P00004,8,0.0
+Toys & Games,P00004,9,15.0
+Toys & Games,P00004,10,0.0
+Toys & Games,P00004,11,0.0
+Toys & Games,P00004,12,0.0
+Toys & Games,P00005,1,16.1
+Toys & Games,P00005,2,0.0
+Toys & Games,P00005,3,0.0
+Toys & Games,P00005,4,0.0
+Toys & Games,P00005,5,16.6
+Toys & Games,P00005,6,0.0
+Toys & Games,P00005,7,0.0
+Toys & Games,P00005,8,0.0
+Toys & Games,P00005,9,15.2
+Toys & Games,P00005,10,0.0
+Toys & Games,P00005,11,0.0
+Toys & Games,P00005,12,0.0
+Toys & Games,P00006,1,16.4
+Toys & Games,P00006,2,0.0
+Toys & Games,P00006,3,0.0
+Toys & Games,P00006,4,0.0
+Toys & Games,P00006,5,16.8
+Toys & Games,P00006,6,0.0
+Toys & Games,P00006,7,0.0
+Toys & Games,P00006,8,0.0
+Toys & Games,P00006,9,15.4
+Toys & Games,P00006,10,0.0
+Toys & Games,P00006,11,0.0
+Toys & Games,P00006,12,0.0
+Toys & Games,P00007,1,18.4
+Toys & Games,P00007,2,0.0
+Toys & Games,P00007,3,0.0
+Toys & Games,P00007,4,0.0
+Toys & Games,P00007,5,18.9
+Toys & Games,P00007,6,0.0
+Toys & Games,P00007,7,0.0
+Toys & Games,P00007,8,0.0
+Toys & Games,P00007,9,17.3
+Toys & Games,P00007,10,0.0
+Toys & Games,P00007,11,0.0
+Toys & Games,P00007,12,0.0
+Toys & Games,P00008,1,16.9
+Toys & Games,P00008,2,0.0
+Toys & Games,P00008,3,0.0
+Toys & Games,P00008,4,0.0
+Toys & Games,P00008,5,17.4
+Toys & Games,P00008,6,0.0
+Toys & Games,P00008,7,0.0
+Toys & Games,P00008,8,0.0
+Toys & Games,P00008,9,15.9
+Toys & Games,P00008,10,0.0
+Toys & Games,P00008,11,0.0
+Toys & Games,P00008,12,0.0
+Toys & Games,P00009,1,16.2
+Toys & Games,P00009,2,0.0
+Toys & Games,P00009,3,0.0
+Toys & Games,P00009,4,0.0
+Toys & Games,P00009,5,16.6
+Toys & Games,P00009,6,0.0
+Toys & Games,P00009,7,0.0
+Toys & Games,P00009,8,0.0
+Toys & Games,P00009,9,15.2
+Toys & Games,P00009,10,0.0
+Toys & Games,P00009,11,0.0
+Toys & Games,P00009,12,0.0
+Toys & Games,P00010,1,13.9
+Toys & Games,P00010,2,0.0
+Toys & Games,P00010,3,0.0
+Toys & Games,P00010,4,0.0
+Toys & Games,P00010,5,14.3
+Toys & Games,P00010,6,0.0
+Toys & Games,P00010,7,0.0
+Toys & Games,P00010,8,0.0
+Toys & Games,P00010,9,13.1
+Toys & Games,P00010,10,0.0
+Toys & Games,P00010,11,0.0
+Toys & Games,P00010,12,0.0
+Toys & Games,P00011,1,13.9
+Toys & Games,P00011,2,0.0
+Toys & Games,P00011,3,0.0
+Toys & Games,P00011,4,0.0
+Toys & Games,P00011,5,14.3
+Toys & Games,P00011,6,0.0
+Toys & Games,P00011,7,0.0
+Toys & Games,P00011,8,0.0
+Toys & Games,P00011,9,13.1
+Toys & Games,P00011,10,0.0
+Toys & Games,P00011,11,0.0
+Toys & Games,P00011,12,0.0
+Toys & Games,P00012,1,17.6
+Toys & Games,P00012,2,0.0
+Toys & Games,P00012,3,0.0
+Toys & Games,P00012,4,0.0
+Toys & Games,P00012,5,18.1
+Toys & Games,P00012,6,0.0
+Toys & Games,P00012,7,0.0
+Toys & Games,P00012,8,0.0
+Toys & Games,P00012,9,16.6
+Toys & Games,P00012,10,0.0
+Toys & Games,P00012,11,0.0
+Toys & Games,P00012,12,0.0
+Toys & Games,P00013,1,17.0
+Toys & Games,P00013,2,0.0
+Toys & Games,P00013,3,0.0
+Toys & Games,P00013,4,0.0
+Toys & Games,P00013,5,17.5
+Toys & Games,P00013,6,0.0
+Toys & Games,P00013,7,0.0
+Toys & Games,P00013,8,0.0
+Toys & Games,P00013,9,16.0
+Toys & Games,P00013,10,0.0
+Toys & Games,P00013,11,0.0
+Toys & Games,P00013,12,0.0
+Toys & Games,P00014,1,16.2
+Toys & Games,P00014,2,0.0
+Toys & Games,P00014,3,0.0
+Toys & Games,P00014,4,0.0
+Toys & Games,P00014,5,16.6
+Toys & Games,P00014,6,0.0
+Toys & Games,P00014,7,0.0
+Toys & Games,P00014,8,0.0
+Toys & Games,P00014,9,15.2
+Toys & Games,P00014,10,0.0
+Toys & Games,P00014,11,0.0
+Toys & Games,P00014,12,0.0
+Toys & Games,P00015,1,16.8
+Toys & Games,P00015,2,0.0
+Toys & Games,P00015,3,0.0
+Toys & Games,P00015,4,0.0
+Toys & Games,P00015,5,17.3
+Toys & Games,P00015,6,0.0
+Toys & Games,P00015,7,0.0
+Toys & Games,P00015,8,0.0
+Toys & Games,P00015,9,15.8
+Toys & Games,P00015,10,0.0
+Toys & Games,P00015,11,0.0
+Toys & Games,P00015,12,0.0
+Toys & Games,P00016,1,15.0
+Toys & Games,P00016,2,0.0
+Toys & Games,P00016,3,0.0
+Toys & Games,P00016,4,0.0
+Toys & Games,P00016,5,15.4
+Toys & Games,P00016,6,0.0
+Toys & Games,P00016,7,0.0
+Toys & Games,P00016,8,0.0
+Toys & Games,P00016,9,14.1
+Toys & Games,P00016,10,0.0
+Toys & Games,P00016,11,0.0
+Toys & Games,P00016,12,0.0
+Toys & Games,P00017,1,15.5
+Toys & Games,P00017,2,0.0
+Toys & Games,P00017,3,0.0
+Toys & Games,P00017,4,0.0
+Toys & Games,P00017,5,15.9
+Toys & Games,P00017,6,0.0
+Toys & Games,P00017,7,0.0
+Toys & Games,P00017,8,0.0
+Toys & Games,P00017,9,14.6
+Toys & Games,P00017,10,0.0
+Toys & Games,P00017,11,0.0
+Toys & Games,P00017,12,0.0
+Toys & Games,P00018,1,16.1
+Toys & Games,P00018,2,0.0
+Toys & Games,P00018,3,0.0
+Toys & Games,P00018,4,0.0
+Toys & Games,P00018,5,16.5
+Toys & Games,P00018,6,0.0
+Toys & Games,P00018,7,0.0
+Toys & Games,P00018,8,0.0
+Toys & Games,P00018,9,15.1
+Toys & Games,P00018,10,0.0
+Toys & Games,P00018,11,0.0
+Toys & Games,P00018,12,0.0
+Toys & Games,P00019,1,16.9
+Toys & Games,P00019,2,0.0
+Toys & Games,P00019,3,0.0
+Toys & Games,P00019,4,0.0
+Toys & Games,P00019,5,17.3
+Toys & Games,P00019,6,0.0
+Toys & Games,P00019,7,0.0
+Toys & Games,P00019,8,0.0
+Toys & Games,P00019,9,15.9
+Toys & Games,P00019,10,0.0
+Toys & Games,P00019,11,0.0
+Toys & Games,P00019,12,0.0
+Toys & Games,P00020,1,13.9
+Toys & Games,P00020,2,0.0
+Toys & Games,P00020,3,0.0
+Toys & Games,P00020,4,0.0
+Toys & Games,P00020,5,14.3
+Toys & Games,P00020,6,0.0
+Toys & Games,P00020,7,0.0
+Toys & Games,P00020,8,0.0
+Toys & Games,P00020,9,13.1
+Toys & Games,P00020,10,0.0
+Toys & Games,P00020,11,0.0
+Toys & Games,P00020,12,0.0
+Toys & Games,P00021,1,15.5
+Toys & Games,P00021,2,0.0
+Toys & Games,P00021,3,0.0
+Toys & Games,P00021,4,0.0
+Toys & Games,P00021,5,15.9
+Toys & Games,P00021,6,0.0
+Toys & Games,P00021,7,0.0
+Toys & Games,P00021,8,0.0
+Toys & Games,P00021,9,14.6
+Toys & Games,P00021,10,0.0
+Toys & Games,P00021,11,0.0
+Toys & Games,P00021,12,0.0
+Toys & Games,P00022,1,16.2
+Toys & Games,P00022,2,0.0
+Toys & Games,P00022,3,0.0
+Toys & Games,P00022,4,0.0
+Toys & Games,P00022,5,16.7
+Toys & Games,P00022,6,0.0
+Toys & Games,P00022,7,0.0
+Toys & Games,P00022,8,0.0
+Toys & Games,P00022,9,15.2
+Toys & Games,P00022,10,0.0
+Toys & Games,P00022,11,0.0
+Toys & Games,P00022,12,0.0
+Toys & Games,P00023,1,15.1
+Toys & Games,P00023,2,0.0
+Toys & Games,P00023,3,0.0
+Toys & Games,P00023,4,0.0
+Toys & Games,P00023,5,15.5
+Toys & Games,P00023,6,0.0
+Toys & Games,P00023,7,0.0
+Toys & Games,P00023,8,0.0
+Toys & Games,P00023,9,14.2
+Toys & Games,P00023,10,0.0
+Toys & Games,P00023,11,0.0
+Toys & Games,P00023,12,0.0
+Toys & Games,P00024,1,16.4
+Toys & Games,P00024,2,0.0
+Toys & Games,P00024,3,0.0
+Toys & Games,P00024,4,0.0
+Toys & Games,P00024,5,16.8
+Toys & Games,P00024,6,0.0
+Toys & Games,P00024,7,0.0
+Toys & Games,P00024,8,0.0
+Toys & Games,P00024,9,15.4
+Toys & Games,P00024,10,0.0
+Toys & Games,P00024,11,0.0
+Toys & Games,P00024,12,0.0
+Toys & Games,P00025,1,15.0
+Toys & Games,P00025,2,0.0
+Toys & Games,P00025,3,0.0
+Toys & Games,P00025,4,0.0
+Toys & Games,P00025,5,15.5
+Toys & Games,P00025,6,0.0
+Toys & Games,P00025,7,0.0
+Toys & Games,P00025,8,0.0
+Toys & Games,P00025,9,14.1
+Toys & Games,P00025,10,0.0
+Toys & Games,P00025,11,0.0
+Toys & Games,P00025,12,0.0
+Toys & Games,P00026,1,12.3
+Toys & Games,P00026,2,0.0
+Toys & Games,P00026,3,0.0
+Toys & Games,P00026,4,0.0
+Toys & Games,P00026,5,12.7
+Toys & Games,P00026,6,0.0
+Toys & Games,P00026,7,0.0
+Toys & Games,P00026,8,0.0
+Toys & Games,P00026,9,11.6
+Toys & Games,P00026,10,0.0
+Toys & Games,P00026,11,0.0
+Toys & Games,P00026,12,0.0
+Toys & Games,P00027,1,16.2
+Toys & Games,P00027,2,0.0
+Toys & Games,P00027,3,0.0
+Toys & Games,P00027,4,0.0
+Toys & Games,P00027,5,16.7
+Toys & Games,P00027,6,0.0
+Toys & Games,P00027,7,0.0
+Toys & Games,P00027,8,0.0
+Toys & Games,P00027,9,15.3
+Toys & Games,P00027,10,0.0
+Toys & Games,P00027,11,0.0
+Toys & Games,P00027,12,0.0
+Toys & Games,P00028,1,16.5
+Toys & Games,P00028,2,0.0
+Toys & Games,P00028,3,0.0
+Toys & Games,P00028,4,0.0
+Toys & Games,P00028,5,17.0
+Toys & Games,P00028,6,0.0
+Toys & Games,P00028,7,0.0
+Toys & Games,P00028,8,0.0
+Toys & Games,P00028,9,15.5
+Toys & Games,P00028,10,0.0
+Toys & Games,P00028,11,0.0
+Toys & Games,P00028,12,0.0
+Toys & Games,P00029,1,16.3
+Toys & Games,P00029,2,0.0
+Toys & Games,P00029,3,0.0
+Toys & Games,P00029,4,0.0
+Toys & Games,P00029,5,16.8
+Toys & Games,P00029,6,0.0
+Toys & Games,P00029,7,0.0
+Toys & Games,P00029,8,0.0
+Toys & Games,P00029,9,15.4
+Toys & Games,P00029,10,0.0
+Toys & Games,P00029,11,0.0
+Toys & Games,P00029,12,0.0
+Toys & Games,P00030,1,15.7
+Toys & Games,P00030,2,0.0
+Toys & Games,P00030,3,0.0
+Toys & Games,P00030,4,0.0
+Toys & Games,P00030,5,16.2
+Toys & Games,P00030,6,0.0
+Toys & Games,P00030,7,0.0
+Toys & Games,P00030,8,0.0
+Toys & Games,P00030,9,14.8
+Toys & Games,P00030,10,0.0
+Toys & Games,P00030,11,0.0
+Toys & Games,P00030,12,0.0
+Toys & Games,P00031,1,14.6
+Toys & Games,P00031,2,0.0
+Toys & Games,P00031,3,0.0
+Toys & Games,P00031,4,0.0
+Toys & Games,P00031,5,15.0
+Toys & Games,P00031,6,0.0
+Toys & Games,P00031,7,0.0
+Toys & Games,P00031,8,0.0
+Toys & Games,P00031,9,13.8
+Toys & Games,P00031,10,0.0
+Toys & Games,P00031,11,0.0
+Toys & Games,P00031,12,0.0
+Toys & Games,P00032,1,14.0
+Toys & Games,P00032,2,0.0
+Toys & Games,P00032,3,0.0
+Toys & Games,P00032,4,0.0
+Toys & Games,P00032,5,14.4
+Toys & Games,P00032,6,0.0
+Toys & Games,P00032,7,0.0
+Toys & Games,P00032,8,0.0
+Toys & Games,P00032,9,13.2
+Toys & Games,P00032,10,0.0
+Toys & Games,P00032,11,0.0
+Toys & Games,P00032,12,0.0
+Toys & Games,P00033,1,15.9
+Toys & Games,P00033,2,0.0
+Toys & Games,P00033,3,0.0
+Toys & Games,P00033,4,0.0
+Toys & Games,P00033,5,16.3
+Toys & Games,P00033,6,0.0
+Toys & Games,P00033,7,0.0
+Toys & Games,P00033,8,0.0
+Toys & Games,P00033,9,14.9
+Toys & Games,P00033,10,0.0
+Toys & Games,P00033,11,0.0
+Toys & Games,P00033,12,0.0
+Toys & Games,P00034,1,12.9
+Toys & Games,P00034,2,0.0
+Toys & Games,P00034,3,0.0
+Toys & Games,P00034,4,0.0
+Toys & Games,P00034,5,13.2
+Toys & Games,P00034,6,0.0
+Toys & Games,P00034,7,0.0
+Toys & Games,P00034,8,0.0
+Toys & Games,P00034,9,12.1
+Toys & Games,P00034,10,0.0
+Toys & Games,P00034,11,0.0
+Toys & Games,P00034,12,0.0
+Toys & Games,P00035,1,14.6
+Toys & Games,P00035,2,0.0
+Toys & Games,P00035,3,0.0
+Toys & Games,P00035,4,0.0
+Toys & Games,P00035,5,15.0
+Toys & Games,P00035,6,0.0
+Toys & Games,P00035,7,0.0
+Toys & Games,P00035,8,0.0
+Toys & Games,P00035,9,13.7
+Toys & Games,P00035,10,0.0
+Toys & Games,P00035,11,0.0
+Toys & Games,P00035,12,0.0
+Toys & Games,P00036,1,13.8
+Toys & Games,P00036,2,0.0
+Toys & Games,P00036,3,0.0
+Toys & Games,P00036,4,0.0
+Toys & Games,P00036,5,14.2
+Toys & Games,P00036,6,0.0
+Toys & Games,P00036,7,0.0
+Toys & Games,P00036,8,0.0
+Toys & Games,P00036,9,13.0
+Toys & Games,P00036,10,0.0
+Toys & Games,P00036,11,0.0
+Toys & Games,P00036,12,0.0
+Toys & Games,P00037,1,15.6
+Toys & Games,P00037,2,0.0
+Toys & Games,P00037,3,0.0
+Toys & Games,P00037,4,0.0
+Toys & Games,P00037,5,16.1
+Toys & Games,P00037,6,0.0
+Toys & Games,P00037,7,0.0
+Toys & Games,P00037,8,0.0
+Toys & Games,P00037,9,14.7
+Toys & Games,P00037,10,0.0
+Toys & Games,P00037,11,0.0
+Toys & Games,P00037,12,0.0
+Toys & Games,P00038,1,15.7
+Toys & Games,P00038,2,0.0
+Toys & Games,P00038,3,0.0
+Toys & Games,P00038,4,0.0
+Toys & Games,P00038,5,16.1
+Toys & Games,P00038,6,0.0
+Toys & Games,P00038,7,0.0
+Toys & Games,P00038,8,0.0
+Toys & Games,P00038,9,14.7
+Toys & Games,P00038,10,0.0
+Toys & Games,P00038,11,0.0
+Toys & Games,P00038,12,0.0
+Toys & Games,P00039,1,13.1
+Toys & Games,P00039,2,0.0
+Toys & Games,P00039,3,0.0
+Toys & Games,P00039,4,0.0
+Toys & Games,P00039,5,13.4
+Toys & Games,P00039,6,0.0
+Toys & Games,P00039,7,0.0
+Toys & Games,P00039,8,0.0
+Toys & Games,P00039,9,12.3
+Toys & Games,P00039,10,0.0
+Toys & Games,P00039,11,0.0
+Toys & Games,P00039,12,0.0
+Toys & Games,P00040,1,15.5
+Toys & Games,P00040,2,0.0
+Toys & Games,P00040,3,0.0
+Toys & Games,P00040,4,0.0
+Toys & Games,P00040,5,15.9
+Toys & Games,P00040,6,0.0
+Toys & Games,P00040,7,0.0
+Toys & Games,P00040,8,0.0
+Toys & Games,P00040,9,14.5
+Toys & Games,P00040,10,0.0
+Toys & Games,P00040,11,0.0
+Toys & Games,P00040,12,0.0
+Toys & Games,P00041,1,17.3
+Toys & Games,P00041,2,0.0
+Toys & Games,P00041,3,0.0
+Toys & Games,P00041,4,0.0
+Toys & Games,P00041,5,17.7
+Toys & Games,P00041,6,0.0
+Toys & Games,P00041,7,0.0
+Toys & Games,P00041,8,0.0
+Toys & Games,P00041,9,16.2
+Toys & Games,P00041,10,0.0
+Toys & Games,P00041,11,0.0
+Toys & Games,P00041,12,0.0
+Toys & Games,P00042,1,15.4
+Toys & Games,P00042,2,0.0
+Toys & Games,P00042,3,0.0
+Toys & Games,P00042,4,0.0
+Toys & Games,P00042,5,15.8
+Toys & Games,P00042,6,0.0
+Toys & Games,P00042,7,0.0
+Toys & Games,P00042,8,0.0
+Toys & Games,P00042,9,14.5
+Toys & Games,P00042,10,0.0
+Toys & Games,P00042,11,0.0
+Toys & Games,P00042,12,0.0
+Toys & Games,P00043,1,14.6
+Toys & Games,P00043,2,0.0
+Toys & Games,P00043,3,0.0
+Toys & Games,P00043,4,0.0
+Toys & Games,P00043,5,15.0
+Toys & Games,P00043,6,0.0
+Toys & Games,P00043,7,0.0
+Toys & Games,P00043,8,0.0
+Toys & Games,P00043,9,13.8
+Toys & Games,P00043,10,0.0
+Toys & Games,P00043,11,0.0
+Toys & Games,P00043,12,0.0
+Toys & Games,P00044,1,17.3
+Toys & Games,P00044,2,0.0
+Toys & Games,P00044,3,0.0
+Toys & Games,P00044,4,0.0
+Toys & Games,P00044,5,17.8
+Toys & Games,P00044,6,0.0
+Toys & Games,P00044,7,0.0
+Toys & Games,P00044,8,0.0
+Toys & Games,P00044,9,16.3
+Toys & Games,P00044,10,0.0
+Toys & Games,P00044,11,0.0
+Toys & Games,P00044,12,0.0
+Toys & Games,P00045,1,13.6
+Toys & Games,P00045,2,0.0
+Toys & Games,P00045,3,0.0
+Toys & Games,P00045,4,0.0
+Toys & Games,P00045,5,14.0
+Toys & Games,P00045,6,0.0
+Toys & Games,P00045,7,0.0
+Toys & Games,P00045,8,0.0
+Toys & Games,P00045,9,12.8
+Toys & Games,P00045,10,0.0
+Toys & Games,P00045,11,0.0
+Toys & Games,P00045,12,0.0
+Toys & Games,P00046,1,16.0
+Toys & Games,P00046,2,0.0
+Toys & Games,P00046,3,0.0
+Toys & Games,P00046,4,0.0
+Toys & Games,P00046,5,16.5
+Toys & Games,P00046,6,0.0
+Toys & Games,P00046,7,0.0
+Toys & Games,P00046,8,0.0
+Toys & Games,P00046,9,15.1
+Toys & Games,P00046,10,0.0
+Toys & Games,P00046,11,0.0
+Toys & Games,P00046,12,0.0
+Toys & Games,P00047,1,15.6
+Toys & Games,P00047,2,0.0
+Toys & Games,P00047,3,0.0
+Toys & Games,P00047,4,0.0
+Toys & Games,P00047,5,16.1
+Toys & Games,P00047,6,0.0
+Toys & Games,P00047,7,0.0
+Toys & Games,P00047,8,0.0
+Toys & Games,P00047,9,14.7
+Toys & Games,P00047,10,0.0
+Toys & Games,P00047,11,0.0
+Toys & Games,P00047,12,0.0
+Toys & Games,P00048,1,14.8
+Toys & Games,P00048,2,0.0
+Toys & Games,P00048,3,0.0
+Toys & Games,P00048,4,0.0
+Toys & Games,P00048,5,15.2
+Toys & Games,P00048,6,0.0
+Toys & Games,P00048,7,0.0
+Toys & Games,P00048,8,0.0
+Toys & Games,P00048,9,13.9
+Toys & Games,P00048,10,0.0
+Toys & Games,P00048,11,0.0
+Toys & Games,P00048,12,0.0
+Toys & Games,P00049,1,13.3
+Toys & Games,P00049,2,0.0
+Toys & Games,P00049,3,0.0
+Toys & Games,P00049,4,0.0
+Toys & Games,P00049,5,13.7
+Toys & Games,P00049,6,0.0
+Toys & Games,P00049,7,0.0
+Toys & Games,P00049,8,0.0
+Toys & Games,P00049,9,12.5
+Toys & Games,P00049,10,0.0
+Toys & Games,P00049,11,0.0
+Toys & Games,P00049,12,0.0
+Toys & Games,P00050,1,15.0
+Toys & Games,P00050,2,0.0
+Toys & Games,P00050,3,0.0
+Toys & Games,P00050,4,0.0
+Toys & Games,P00050,5,15.4
+Toys & Games,P00050,6,0.0
+Toys & Games,P00050,7,0.0
+Toys & Games,P00050,8,0.0
+Toys & Games,P00050,9,14.1
+Toys & Games,P00050,10,0.0
+Toys & Games,P00050,11,0.0
+Toys & Games,P00050,12,0.0

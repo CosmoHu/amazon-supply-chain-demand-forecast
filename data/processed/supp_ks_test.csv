@@ -1,0 +1,7 @@
+﻿Category,KS统计量,p值,是否正态
+Books,0.0672,0.0,不服从正态
+Clothing,0.059,0.0001,不服从正态
+Electronics,0.0554,0.0002,不服从正态
+Home & Kitchen,0.0659,0.0,不服从正态
+Sports & Outdoors,0.0578,0.0001,不服从正态
+Toys & Games,0.053,0.0006,不服从正态

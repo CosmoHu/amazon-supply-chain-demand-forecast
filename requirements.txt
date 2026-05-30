@@ -1,6 +1,5 @@
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.26.4
-scipy==1.13.1
-pulp==2.9.0
-matplotlib==3.9.0
+streamlit
+pandas
+numpy
+scipy
+pulp
